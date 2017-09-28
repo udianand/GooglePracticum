@@ -1,0 +1,3142 @@
+,COUNTY,STATE,ABBREVIATION,CITY,AIRPORT CODE
+0,autauga,alabama,al,prattville,KMXF
+1,baldwin,alabama,al,bay-minette,KBFM
+2,barbour,alabama,al,clayton,KEUF
+3,bibb,alabama,al,centreville,KEET
+4,blount,alabama,al,oneonta,KGAD
+5,bullock,alabama,al,union-springs,KTOI
+6,butler,alabama,al,greenville,KPRN
+7,calhoun,alabama,al,anniston,KANB
+8,chambers,alabama,al,lafayette,KLGC
+9,cherokee,alabama,al,centre,K4A9
+10,chilton,alabama,al,clanton,KEET
+11,choctaw,alabama,al,butler,KMEI
+12,clarke,alabama,al,grove-hill,KGZH
+13,clay,alabama,al,ashland,KANB
+14,cleburne,alabama,al,heflin,KANB
+15,coffee,alabama,al,,
+16,colbert,alabama,al,tuscumbia,KMSL
+17,conecuh,alabama,al,evergreen,KGZH
+18,coosa,alabama,al,rockford,KALX
+19,covington,alabama,al,andalusia,K79J
+20,crenshaw,alabama,al,luverne,KTOI
+21,cullman,alabama,al,cullman,KCMD
+22,dale,alabama,al,ozark,KHEY
+23,dallas,alabama,al,selma,
+24,dekalb,alabama,al,fort-payne,K4A9
+25,elmore,alabama,al,wetumpka,KMXF
+26,escambia,alabama,al,brewton,KGZH
+27,etowah,alabama,al,gadsden,KGAD
+28,fayette,alabama,al,fayette,KJFX
+29,franklin,alabama,al,russellville,K1M4
+30,geneva,alabama,al,geneva,KOZR
+31,greene,alabama,al,eutaw,KTCL
+32,hale,alabama,al,greensboro,KTCL
+33,henry,alabama,al,abbeville,KDHN
+34,houston,alabama,al,dothan,KDHN
+35,jackson,alabama,al,scottsboro,K4A6
+36,jefferson,alabama,al,birmingham,KBHM
+37,lamar,alabama,al,vernon,KCBM
+38,lauderdale,alabama,al,florence,KMSL
+39,lawrence,alabama,al,moulton,K1M4
+40,lee,alabama,al,opelika,KCSG
+41,limestone,alabama,al,athens,KDCU
+42,lowndes,alabama,al,hayneville,KMGM
+43,macon,alabama,al,tuskegee,KALX
+44,madison,alabama,al,huntsville,KHUA
+45,marengo,alabama,al,linden,KNMM
+46,marion,alabama,al,hamilton,K1M4
+47,marshall,alabama,al,guntersville,K8A0
+48,mobile,alabama,al,mobile,KBFM
+49,monroe,alabama,al,monroeville,KGZH
+50,montgomery,alabama,al,montgomery,KMXF
+51,morgan,alabama,al,decatur,KDCU
+52,perry,alabama,al,marion,KTCL
+53,pickens,alabama,al,carrollton,KTCL
+54,pike,alabama,al,troy,KTOI
+55,randolph,alabama,al,wedowee,KCTJ
+56,russell,alabama,al,phenix-city,KCSG
+57,st. clair,alabama,al,ashville,KGAD
+58,shelby,alabama,al,columbiana,KEET
+59,sumter,alabama,al,livingston,KNMM
+60,talladega,alabama,al,talladega,KANB
+61,tallapoosa,alabama,al,dadeville,KALX
+62,tuscaloosa,alabama,al,tuscaloosa,KTCL
+63,walker,alabama,al,jasper,KJFX
+64,washington,alabama,al,chatom,KMOB
+65,wilcox,alabama,al,camden,KPRN
+66,winston,alabama,al,double-springs,K1M4
+67,aleutians east borough,alaska,ak,,
+68,municipality of anchorage,alaska,ak,,
+69,bristol bay borough,alaska,ak,naknek,PAKN
+70,denali borough,alaska,ak,healy,PAIN
+71,fairbanks north star borough,alaska,ak,fairbanks,PAFB
+72,city and borough of haines,alaska,ak,,
+73,city and borough of juneau,alaska,ak,,
+74,kenai peninsula borough,alaska,ak,,
+75,ketchikan gateway borough,alaska,ak,ketchikan,PAKT
+76,kodiak island borough,alaska,ak,kodiak,PADQ
+77,lake and peninsula borough,alaska,ak,king-salmon,PAKN
+78,matanuska-susitna borough,alaska,ak,palmer,PAAQ
+79,north slope borough,alaska,ak,,
+80,northwest arctic borough,alaska,ak,kotzebue,PFNO
+81,petersburg borough,alaska,ak,,
+82,city and borough of sitka,alaska,ak,,
+83,municipality of skagway borough,alaska,ak,,
+84,city and borough of wrangell,alaska,ak,,
+85,city and borough of yakutat,alaska,ak,,
+86,unorganized borough,alaska,ak,,
+87,aleutians west census area,alaska,ak,,
+88,bethel census area,alaska,ak,,
+89,dillingham census area,alaska,ak,,
+90,hoonah-angoon census area,alaska,ak,,
+91,kusilvak census area,alaska,ak,,
+92,nome census area,alaska,ak,,
+93,prince of wales-hyder census area,alaska,ak,,
+94,southeast fairbanks census area,alaska,ak,,
+95,valdez-cordova census area,alaska,ak,,
+96,yukon-koyukuk census area,alaska,ak,,
+97,apache,arizona,az,,
+98,cochise,arizona,az,bisbee,KDUG
+99,coconino,arizona,az,flagstaff,KFLG
+100,gila,arizona,az,globe,KP08
+101,graham,arizona,az,safford,KSAD
+102,greenlee,arizona,az,clifton,KSAD
+103,la paz,arizona,az,parker,KBLH
+104,maricopa,arizona,az,phoenix,KPHX
+105,mohave,arizona,az,kingman,KIGM
+106,navajo,arizona,az,holbrook,KINW
+107,pima,arizona,az,,
+108,pinal,arizona,az,florence,KIWA
+109,santa cruz,arizona,az,nogales,KOLS
+110,yavapai,arizona,az,prescott,KPRC
+111,yuma,arizona,az,yuma,KNYL
+112,arkansas,arkansas,ar,stuttgart,KSGT
+113,ashley,arkansas,ar,hamburg,KLLQ
+114,baxter,arkansas,ar,mountain-home,KBPK
+115,benton,arkansas,ar,bentonville,KVBT
+116,boone,arkansas,ar,harrison,KBBG
+117,bradley,arkansas,ar,,
+118,calhoun,arkansas,ar,hampton,KCDH
+119,carroll,arkansas,ar,berryville,
+120,chicot,arkansas,ar,lake-village,KGLH
+121,clark,arkansas,ar,arkadelphia,KADF
+122,clay,arkansas,ar,corning,K4M9
+123,cleburne,arkansas,ar,heber-springs,KCCA
+124,cleveland,arkansas,ar,rison,KPBF
+125,columbia,arkansas,ar,magnolia,KELD
+126,conway,arkansas,ar,morrilton,KRUE
+127,craighead,arkansas,ar,,
+128,crawford,arkansas,ar,van-buren,KFSM
+129,crittenden,arkansas,ar,marion,KAWM
+130,cross,arkansas,ar,,
+131,dallas,arkansas,ar,fordyce,KCDH
+132,desha,arkansas,ar,arkansas-city,KGLH
+133,drew,arkansas,ar,monticello,KLLQ
+134,faulkner,arkansas,ar,conway,KLRF
+135,franklin,arkansas,ar,ozark,KFSM
+136,fulton,arkansas,ar,salem,KUNO
+137,garland,arkansas,ar,hot-springs,LYPG
+138,grant,arkansas,ar,sheridan,KPBF
+139,greene,arkansas,ar,paragould,KJBR
+140,hempstead,arkansas,ar,hope,KTXK
+141,hot spring,arkansas,ar,malvern,KHOT
+142,howard,arkansas,ar,nashville,KDEQ
+143,independence,arkansas,ar,batesville,
+144,izard,arkansas,ar,melbourne,KBVX
+145,jackson,arkansas,ar,newport,KM19
+146,jefferson,arkansas,ar,pine-bluff,KPBF
+147,johnson,arkansas,ar,clarksville,KRUE
+148,lafayette,arkansas,ar,lewisville,KTXK
+149,lawrence,arkansas,ar,walnut-ridge,KARG
+150,lee,arkansas,ar,marianna,KAWM
+151,lincoln,arkansas,ar,star-city,KPBF
+152,little river,arkansas,ar,ashdown,KTXK
+153,logan,arkansas,ar,paris,KRUE
+154,lonoke,arkansas,ar,lonoke,KLRF
+155,madison,arkansas,ar,huntsville,KASG
+156,marion,arkansas,ar,yellville,KFLP
+157,miller,arkansas,ar,texarkana,KTXK
+158,mississippi,arkansas,ar,blytheville,KBYH
+159,monroe,arkansas,ar,clarendon,KSGT
+160,montgomery,arkansas,ar,mount-ida,KMWT
+161,nevada,arkansas,ar,prescott,KADF
+162,newton,arkansas,ar,jasper,KBBG
+163,ouachita,arkansas,ar,camden,KCDH
+164,perry,arkansas,ar,perryville,KRUE
+165,phillips,arkansas,ar,helena-west-helena,
+166,pike,arkansas,ar,murfreesboro,
+167,poinsett,arkansas,ar,harrisburg,KJBR
+168,polk,arkansas,ar,mena,KMEZ
+169,pope,arkansas,ar,russellville,KRUE
+170,prairie,arkansas,ar,des-arc,KSRC
+171,pulaski,arkansas,ar,little-rock,KLIT
+172,randolph,arkansas,ar,pocahontas,KARG
+173,st. francis,arkansas,ar,forrest-city,KAWM
+174,saline,arkansas,ar,benton,KLIT
+175,scott,arkansas,ar,waldron,KMEZ
+176,searcy,arkansas,ar,marshall,KCCA
+177,sebastian,arkansas,ar,fort-smith,KFSM
+178,sevier,arkansas,ar,de-queen,KDEQ
+179,sharp,arkansas,ar,ash-flat,KBVX
+180,stone,arkansas,ar,mountain-view,KCCA
+181,union,arkansas,ar,el-dorado,KELD
+182,van buren,arkansas,ar,clinton,KCCA
+183,washington,arkansas,ar,fayetteville,KFYV
+184,white,arkansas,ar,searcy,KSRC
+185,woodruff,arkansas,ar,augusta,KSRC
+186,yell,arkansas,ar,danville,KRUE
+187,alameda,california,ca,oakland,KOAK
+188,alpine,california,ca,markleeville,KTVL
+189,amador,california,ca,,
+190,butte,california,ca,oroville,KOVE
+191,calaveras,california,ca,san-andreas,KO22
+192,colusa,california,ca,,
+193,contra costa,california,ca,,
+194,del norte,california,ca,crescent-city,KCEC
+195,el dorado,california,ca,placerville,KAUN
+196,fresno,california,ca,fresno,KFAT
+197,glenn,california,ca,willows,
+198,humboldt,california,ca,eureka,KACV
+199,imperial,california,ca,el-centro,KIPL
+200,inyo,california,ca,independence,KBIH
+201,kern,california,ca,bakersfield,KBFL
+202,kings,california,ca,hanford,KHJO
+203,lake,california,ca,lakeport,KUKI
+204,lassen,california,ca,susanville,KRTS
+205,los angeles,california,ca,los-angeles,KCQT
+206,madera,california,ca,madera,KFAT
+207,marin,california,ca,,
+208,mariposa,california,ca,mariposa,KMCE
+209,mendocino,california,ca,,
+210,merced,california,ca,merced,KMCE
+211,modoc,california,ca,,
+212,mono,california,ca,bridgeport,KBAN
+213,monterey,california,ca,,
+214,napa,california,ca,,
+215,nevada,california,ca,,
+216,orange,california,ca,santa-ana,KSNA
+217,placer,california,ca,auburn,KAUN
+218,plumas,california,ca,quincy,KBLU
+219,riverside,california,ca,riverside,KRAL
+220,sacramento,california,ca,,
+221,san benito,california,ca,hollister,
+222,san bernardino,california,ca,san-bernardino,KSBD
+223,san diego,california,ca,san-diego,KSAN
+224,city and of san francisco,california,ca,,
+225,san joaquin,california,ca,stockton,KSCK
+226,san luis obispo,california,ca,san-luis-obispo,KSBP
+227,san mateo,california,ca,,
+228,santa barbara,california,ca,santa-barbara,KSBA
+229,santa clara,california,ca,san-jose,KSJC
+230,santa cruz,california,ca,santa-cruz,KWVI
+231,shasta,california,ca,redding,KRDD
+232,sierra,california,ca,downieville,
+233,siskiyou,california,ca,yreka,KSIY
+234,solano,california,ca,fairfield,KSUU
+235,sonoma,california,ca,santa-rosa,KSTS
+236,stanislaus,california,ca,modesto,KMOD
+237,sutter,california,ca,yuba-city,KMYV
+238,tehama,california,ca,,
+239,trinity,california,ca,weaverville,KRDD
+240,tulare,california,ca,visalia,KVIS
+241,tuolumne,california,ca,sonora,KO22
+242,ventura,california,ca,,
+243,yolo,california,ca,woodland,KEDU
+244,yuba,california,ca,marysville,KMYV
+245,adams,colorado,co,brighton,KDEN
+246,alamosa,colorado,co,alamosa,KALS
+247,arapahoe,colorado,co,littleton,KAPA
+248,archuleta,colorado,co,pagosa-springs,KPSO
+249,baca,colorado,co,springfield,KLAA
+250,bent,colorado,co,las-animas,
+251,boulder,colorado,co,boulder,KBDU
+252,city and of broomfield,colorado,co,,
+253,chaffee,colorado,co,salida,KANK
+254,cheyenne,colorado,co,cheyenne-wells,KITR
+255,clear creek,colorado,co,georgetown,K0CO
+256,conejos,colorado,co,conejos,KALS
+257,costilla,colorado,co,san-luis,KALS
+258,crowley,colorado,co,ordway,
+259,custer,colorado,co,westcliffe,K04V
+260,delta,colorado,co,delta,KAJZ
+261,city and of denver,colorado,co,,
+262,dolores,colorado,co,dove-creek,KCEZ
+263,douglas,colorado,co,castle-rock,KMNH
+264,eagle,colorado,co,eagle,KEGE
+265,elbert,colorado,co,kiowa,KMNH
+266,el paso,colorado,co,colorado-springs,KCOS
+267,fremont,colorado,co,,
+268,garfield,colorado,co,glenwood-springs,KRIL
+269,gilpin,colorado,co,central-city,
+270,grand,colorado,co,hot-sulphur-springs,K20V
+271,gunnison,colorado,co,gunnison,KGUC
+272,hinsdale,colorado,co,lake-city,KTEX
+273,huerfano,colorado,co,walsenburg,KTAD
+274,jackson,colorado,co,walden,K33V
+275,jefferson,colorado,co,golden,KBJC
+276,kiowa,colorado,co,eads,KLAA
+277,kit carson,colorado,co,burlington,KITR
+278,lake,colorado,co,leadville,KLXV
+279,la plata,colorado,co,durango,
+280,larimer,colorado,co,fort-collins,
+281,las animas,colorado,co,trinidad,KTAD
+282,lincoln,colorado,co,hugo,KFLY
+283,logan,colorado,co,sterling,KSTK
+284,mesa,colorado,co,grand-junction,KGJT
+285,mineral,colorado,co,creede,KPSO
+286,moffat,colorado,co,craig,KCAG
+287,montezuma,colorado,co,cortez,KCEZ
+288,montrose,colorado,co,montrose,KMTJ
+289,morgan,colorado,co,fort-morgan,KFMM
+290,otero,colorado,co,la-junta,
+291,ouray,colorado,co,ouray,KTEX
+292,park,colorado,co,fairplay,KLXV
+293,phillips,colorado,co,holyoke,KHEQ
+294,pitkin,colorado,co,aspen,KASE
+295,prowers,colorado,co,lamar,KLAA
+296,pueblo,colorado,co,pueblo,KPUB
+297,rio blanco,colorado,co,meeker,KEEO
+298,rio grande,colorado,co,del-norte,
+299,routt,colorado,co,steamboat-springs,KSBS
+300,saguache,colorado,co,saguache,K04V
+301,san juan,colorado,co,silverton,KTEX
+302,san miguel,colorado,co,telluride,KTEX
+303,sedgwick,colorado,co,julesburg,KOGA
+304,summit,colorado,co,breckenridge,KLXV
+305,teller,colorado,co,cripple-creek,
+306,washington,colorado,co,akron,KAKO
+307,weld,colorado,co,greeley,KGXY
+308,yuma,colorado,co,wray,K2V5
+309,fairfield,connecticut,CT,fairfield,KBDR
+310,hartford,connecticut,CT,hartford,KHFD
+311,litchfield,connecticut,CT,litchfield,KOXC
+312,middlesex,connecticut,CT,middletown,KMMK
+313,new haven,connecticut,CT,new-haven,KHVN
+314,new london,connecticut,CT,new-london,
+315,tolland,connecticut,CT,,
+316,windham,connecticut,CT,willimantic,KIJD
+317,kent,delaware,de,dover,
+318,new castle,delaware,de,wilmington,KILG
+319,sussex,delaware,de,georgetown,KGED
+320,alachua,florida,fl,gainesville,KGNV
+321,baker,florida,fl,macclenny,KVQQ
+322,bay,florida,fl,panama-city,KPAM
+323,bradford,florida,fl,starke,
+324,brevard,florida,fl,,
+325,broward,florida,fl,,
+326,calhoun,florida,fl,blountstown,KMAI
+327,charlotte,florida,fl,punta-gorda,KPGD
+328,citrus,florida,fl,inverness,KINF
+329,clay,florida,fl,green-cove-springs,KNIP
+330,collier,florida,fl,east-naples,
+331,columbia,florida,fl,lake-city,KLCQ
+332,desoto,florida,fl,arcadia,KPGD
+333,dixie,florida,fl,cross-city,KCTY
+334,duval,florida,fl,jacksonville,KNIP
+335,escambia,florida,fl,pensacola,KPNS
+336,flagler,florida,fl,bunnell,KOMN
+337,franklin,florida,fl,apalachicola,KAAF
+338,gadsden,florida,fl,quincy,KTLH
+339,gilchrist,florida,fl,trenton,KCTY
+340,glades,florida,fl,moore-haven,KOBE
+341,gulf,florida,fl,port-st.-joe,KAAF
+342,hamilton,florida,fl,jasper,KVLD
+343,hardee,florida,fl,wauchula,KBOW
+344,hendry,florida,fl,labelle,
+345,hernando,florida,fl,brooksville,KBKV
+346,highlands,florida,fl,sebring,KBOW
+347,hillsborough,florida,fl,tampa,KTPF
+348,holmes,florida,fl,bonifay,K54J
+349,indian river,florida,fl,vero-beach,KVRB
+350,jackson,florida,fl,marianna,KMAI
+351,jefferson,florida,fl,monticello,KTVI
+352,lafayette,florida,fl,mayo,K40J
+353,lake,florida,fl,tavares,KLEE
+354,lee,florida,fl,fort-myers,KFMY
+355,leon,florida,fl,tallahassee,KTLH
+356,levy,florida,fl,bronson,KGNV
+357,liberty,florida,fl,bristol,KMAI
+358,madison,florida,fl,madison,KVLD
+359,manatee,florida,fl,bradenton,KSRQ
+360,marion,florida,fl,ocala,KOCF
+361,martin,florida,fl,stuart,KSUA
+362,miami-dade,florida,fl,,
+363,monroe,florida,fl,,
+364,nassau,florida,fl,fernandina-beach,KFHB
+365,okaloosa,florida,fl,crestview,KCEW
+366,okeechobee,florida,fl,okeechobee,KOBE
+367,orange,florida,fl,orlando,KORL
+368,osceola,florida,fl,kissimmee,KISM
+369,palm beach,florida,fl,,
+370,pasco,florida,fl,dade-city,KZPH
+371,pinellas,florida,fl,clearwater,KPIE
+372,polk,florida,fl,bartow,KBOW
+373,putnam,florida,fl,palatka,K42J
+374,st. johns,florida,fl,st.-augustine,KSGJ
+375,st. lucie,florida,fl,fort-pierce,KFPR
+376,santa rosa,florida,fl,milton,KNSE
+377,sarasota,florida,fl,sarasota,KSRQ
+378,seminole,florida,fl,sanford,KSFB
+379,sumter,florida,fl,bushnell,KINF
+380,suwannee,florida,fl,live-oak,KLCQ
+381,taylor,florida,fl,perry,K40J
+382,union,florida,fl,lake-butler,KLCQ
+383,volusia,florida,fl,deland,KDED
+384,wakulla,florida,fl,crawfordville,KTLH
+385,walton,florida,fl,defuniak-springs,K54J
+386,washington,florida,fl,chipley,KMAI
+387,appling,georgia,ga,baxley,KAZE
+388,atkinson,georgia,ga,pearson,KDQH
+389,bacon,georgia,ga,alma,KAMG
+390,baker,georgia,ga,newton,KABY
+391,baldwin,georgia,ga,milledgeville,KMLJ
+392,banks,georgia,ga,homer,KGVL
+393,barrow,georgia,ga,winder,KWDR
+394,bartow,georgia,ga,cartersville,KVPC
+395,ben hill,georgia,ga,fitzgerald,
+396,berrien,georgia,ga,nashville,KVAD
+397,bibb,georgia,ga,macon,KMCN
+398,bleckley,georgia,ga,cochran,KEZM
+399,brantley,georgia,ga,nahunta,KAYS
+400,brooks,georgia,ga,quitman,KVLD
+401,bryan,georgia,ga,pembroke,KCWV
+402,bulloch,georgia,ga,statesboro,KTBR
+403,burke,georgia,ga,waynesboro,KAGS
+404,butts,georgia,ga,,
+405,calhoun,georgia,ga,morgan,KABY
+406,camden,georgia,ga,woodbine,KSSI
+407,candler,georgia,ga,metter,KCWV
+408,carroll,georgia,ga,carrollton,KCTJ
+409,catoosa,georgia,ga,ringgold,KCHA
+410,charlton,georgia,ga,folkston,KJAX
+411,chatham,georgia,ga,savannah,KSVN
+412,chattahoochee,georgia,ga,cusseta,KLSF
+413,chattooga,georgia,ga,,
+414,cherokee,georgia,ga,canton,KCNI
+415,clarke,georgia,ga,athens,KAHN
+416,clay,georgia,ga,fort-gaines,KEUF
+417,clayton,georgia,ga,jonesboro,KATL
+418,clinch,georgia,ga,homerville,KHOE
+419,cobb,georgia,ga,marietta,KMGE
+420,coffee,georgia,ga,douglas,KDQH
+421,colquitt,georgia,ga,moultrie,KMGR
+422,columbia,georgia,ga,,
+423,cook,georgia,ga,adel,KVAD
+424,coweta,georgia,ga,newnan,KFFC
+425,crawford,georgia,ga,knoxville,KMCN
+426,crisp,georgia,ga,cordele,KCKF
+427,dade,georgia,ga,trenton,KCHA
+428,dawson,georgia,ga,dawsonville,KCNI
+429,decatur,georgia,ga,bainbridge,KBGE
+430,dekalb,georgia,ga,decatur,KPDK
+431,dodge,georgia,ga,eastman,KEZM
+432,dooly,georgia,ga,vienna,
+433,dougherty,georgia,ga,albany,KABY
+434,douglas,georgia,ga,douglasville,KFTY
+435,early,georgia,ga,blakely,KDHN
+436,echols,georgia,ga,statenville,KVLD
+437,effingham,georgia,ga,springfield,KSAV
+438,elbert,georgia,ga,elberton,KAND
+439,emanuel,georgia,ga,swainsboro,KSBO
+440,evans,georgia,ga,claxton,KCWV
+441,fannin,georgia,ga,blue-ridge,KDNN
+442,fayette,georgia,ga,fayetteville,KFFC
+443,floyd,georgia,ga,rome,KRMG
+444,forsyth,georgia,ga,cumming,KCNI
+445,franklin,georgia,ga,carnesville,
+446,fulton,georgia,ga,atlanta,KFTY
+447,gilmer,georgia,ga,ellijay,KCNI
+448,glascock,georgia,ga,gibson,KHQU
+449,glynn,georgia,ga,brunswick,KSSI
+450,gordon,georgia,ga,calhoun,KDNN
+451,grady,georgia,ga,cairo,KTVI
+452,greene,georgia,ga,greensboro,K3J7
+453,gwinnett,georgia,ga,lawrenceville,KWDR
+454,habersham,georgia,ga,clarkesville,KTOC
+455,hall,georgia,ga,gainesville,KGVL
+456,hancock,georgia,ga,sparta,KMLJ
+457,haralson,georgia,ga,buchanan,KCTJ
+458,harris,georgia,ga,hamilton,KCSG
+459,hart,georgia,ga,hartwell,KAND
+460,heard,georgia,ga,franklin,KLGC
+461,henry,georgia,ga,mcdonough,KCVC
+462,houston,georgia,ga,perry,KWRB
+463,irwin,georgia,ga,ocilla,KFZG
+464,jackson,georgia,ga,jefferson,KWDR
+465,jasper,georgia,ga,monticello,KCVC
+466,jeff davis,georgia,ga,hazlehurst,KAZE
+467,jefferson,georgia,ga,louisville,KSBO
+468,jenkins,georgia,ga,millen,KJYL
+469,johnson,georgia,ga,wrightsville,KSBO
+470,jones,georgia,ga,gray,KMLJ
+471,lamar,georgia,ga,barnesville,KOPN
+472,lanier,georgia,ga,lakeland,KVAD
+473,laurens,georgia,ga,dublin,KEZM
+474,lee,georgia,ga,leesburg,KABY
+475,liberty,georgia,ga,hinesville,KLHW
+476,lincoln,georgia,ga,lincolnton,KHQU
+477,long,georgia,ga,ludowici,KLHW
+478,lowndes,georgia,ga,valdosta,KVLD
+479,lumpkin,georgia,ga,dahlonega,KGVL
+480,mcduffie,georgia,ga,thomson,KHQU
+481,mcintosh,georgia,ga,darien,KBQK
+482,macon,georgia,ga,oglethorpe,KACJ
+483,madison,georgia,ga,danielsville,KAHN
+484,marion,georgia,ga,buena-vista,KACJ
+485,meriwether,georgia,ga,greenville,KLGC
+486,miller,georgia,ga,colquitt,KBGE
+487,mitchell,georgia,ga,camilla,KABY
+488,monroe,georgia,ga,forsyth,KOPN
+489,montgomery,georgia,ga,mount-vernon,KVDI
+490,morgan,georgia,ga,madison,K3J7
+491,murray,georgia,ga,chatsworth,KDNN
+492,muscogee,georgia,ga,columbus,KCSG
+493,newton,georgia,ga,covington,KCVC
+494,oconee,georgia,ga,watkinsville,KAHN
+495,oglethorpe,georgia,ga,lexington,KAHN
+496,paulding,georgia,ga,dallas,
+497,peach,georgia,ga,fort-valley,KMCN
+498,pickens,georgia,ga,jasper,KCNI
+499,pierce,georgia,ga,blackshear,KAYS
+500,pike,georgia,ga,zebulon,K6A2
+501,polk,georgia,ga,cedartown,KPUJ
+502,pulaski,georgia,ga,hawkinsville,KEZM
+503,putnam,georgia,ga,eatonton,KMLJ
+504,quitman,georgia,ga,georgetown,KEUF
+505,rabun,georgia,ga,clayton,KTOC
+506,randolph,georgia,ga,cuthbert,KEUF
+507,richmond,georgia,ga,augusta,KDNL
+508,rockdale,georgia,ga,conyers,KCVC
+509,schley,georgia,ga,ellaville,KACJ
+510,screven,georgia,ga,sylvania,KJYL
+511,seminole,georgia,ga,donalsonville,KBGE
+512,spalding,georgia,ga,griffin,K6A2
+513,stephens,georgia,ga,toccoa,KTOC
+514,stewart,georgia,ga,lumpkin,KEUF
+515,sumter,georgia,ga,americus,KACJ
+516,talbot,georgia,ga,talbotton,KOPN
+517,taliaferro,georgia,ga,crawfordville,K3J7
+518,tattnall,georgia,ga,reidsville,KVDI
+519,taylor,georgia,ga,butler,KOPN
+520,telfair,georgia,ga,mcrae-helena,CXRL
+521,terrell,georgia,ga,dawson,KABY
+522,thomas,georgia,ga,thomasville,KTVI
+523,tift,georgia,ga,tifton,KTMA
+524,toombs,georgia,ga,lyons,KVDI
+525,towns,georgia,ga,hiawassee,KRHP
+526,treutlen,georgia,ga,soperton,KVDI
+527,troup,georgia,ga,lagrange,KLGC
+528,turner,georgia,ga,ashburn,KCKF
+529,twiggs,georgia,ga,jeffersonville,KWRB
+530,union,georgia,ga,blairsville,KRHP
+531,upson,georgia,ga,thomaston,KOPN
+532,walker,georgia,ga,lafayette,KCHA
+533,walton,georgia,ga,monroe,KWDR
+534,ware,georgia,ga,waycross,KAYS
+535,warren,georgia,ga,warrenton,KHQU
+536,washington,georgia,ga,sandersville,KMLJ
+537,wayne,georgia,ga,jesup,KLHW
+538,webster,georgia,ga,preston,KACJ
+539,wheeler,georgia,ga,alamo,KAZE
+540,white,georgia,ga,cleveland,KGVL
+541,whitfield,georgia,ga,dalton,KDNN
+542,wilcox,georgia,ga,abbeville,KEZM
+543,wilkes,georgia,ga,washington,KHQU
+544,wilkinson,georgia,ga,irwinton,KMLJ
+545,worth,georgia,ga,sylvester,KABY
+546,hawaii,hawaii,hi,hilo,PHTO
+547,city and of honolulu,hawaii,hi,,
+548,kalawao,hawaii,hi,,
+549,kauai,hawaii,hi,lihue,
+550,maui,hawaii,hi,wailuku,PHOG
+551,ada,idaho,id,boise,KBOI
+552,adams,idaho,id,council,KONO
+553,bannock,idaho,id,pocatello,KPIH
+554,bear lake,idaho,id,paris,KLGU
+555,benewah,idaho,id,st.-maries,
+556,bingham,idaho,id,blackfoot,KPIH
+557,blaine,idaho,id,hailey,KSUN
+558,boise,idaho,id,idaho-city,KBOI
+559,bonner,idaho,id,sandpoint,KSZT
+560,bonneville,idaho,id,idaho-falls,KIDA
+561,boundary,idaho,id,bonners-ferry,
+562,butte,idaho,id,arco,KSUN
+563,camas,idaho,id,fairfield,KSUN
+564,canyon,idaho,id,caldwell,KEUL
+565,caribou,idaho,id,soda-springs,KAFO
+566,cassia,idaho,id,burley,KBYI
+567,clark,idaho,id,dubois,KIDA
+568,clearwater,idaho,id,orofino,KLWS
+569,custer,idaho,id,challis,
+570,elmore,idaho,id,mountain-home,KMUO
+571,franklin,idaho,id,preston,KLGU
+572,fremont,idaho,id,st.-anthony,KDIJ
+573,gem,idaho,id,emmett,
+574,gooding,idaho,id,gooding,KJER
+575,idaho,idaho,id,grangeville,KGIC
+576,jefferson,idaho,id,rigby,KIDA
+577,jerome,idaho,id,jerome,KJER
+578,kootenai,idaho,id,coeur-d'alene,KCOE
+579,latah,idaho,id,moscow,KPUW
+580,lemhi,idaho,id,salmon,KSMN
+581,lewis,idaho,id,nezperce,KGIC
+582,lincoln,idaho,id,shoshone,KJER
+583,madison,idaho,id,rexburg,KIDA
+584,minidoka,idaho,id,rupert,KBYI
+585,nez perce,idaho,id,lewiston,KLWS
+586,oneida,idaho,id,malad-city,KLGU
+587,owyhee,idaho,id,murphy,KMAN
+588,payette,idaho,id,payette,KONO
+589,power,idaho,id,american-falls,KPIH
+590,shoshone,idaho,id,wallace,KCOE
+591,teton,idaho,id,driggs,KDIJ
+592,twin falls,idaho,id,twin-falls,KTWF
+593,valley,idaho,id,cascade,
+594,washington,idaho,id,weiser,KONO
+595,adams,illinois,il,quincy,KUIN
+596,alexander,illinois,il,cairo,KCIR
+597,bond,illinois,il,greenville,K3LF
+598,boone,illinois,il,belvidere,KRFD
+599,brown,illinois,il,mount-sterling,KUIN
+600,bureau,illinois,il,princeton,KVYS
+601,calhoun,illinois,il,hardin,KSET
+602,carroll,illinois,il,mount-carroll,KSFY
+603,cass,illinois,il,virginia,KIJX
+604,champaign,illinois,il,urbana,KCMI
+605,christian,illinois,il,taylorville,KTAZ
+606,clark,illinois,il,marshall,KHUF
+607,clay,illinois,il,louisville,KFOA
+608,clinton,illinois,il,carlyle,KENL
+609,coles,illinois,il,charleston,KMTO
+610,cook,illinois,il,,
+611,crawford,illinois,il,robinson,KRSV
+612,cumberland,illinois,il,toledo,KMTO
+613,dekalb,illinois,il,sycamore,KDKB
+614,de witt,illinois,il,clinton,KAAA
+615,douglas,illinois,il,tuscola,KCMI
+616,dupage,illinois,il,wheaton,KDPA
+617,edgar,illinois,il,paris,KPRG
+618,edwards,illinois,il,albion,KFWC
+619,effingham,illinois,il,effingham,K1H2
+620,fayette,illinois,il,vandalia,KSLO
+621,ford,illinois,il,paxton,KTIP
+622,franklin,illinois,il,benton,KMWA
+623,fulton,illinois,il,lewistown,KMQB
+624,gallatin,illinois,il,shawneetown,KHSB
+625,greene,illinois,il,carrollton,KSET
+626,grundy,illinois,il,morris,KC09
+627,hamilton,illinois,il,mcleansboro,KHSB
+628,hancock,illinois,il,carthage,KEOK
+629,hardin,illinois,il,elizabethtown,K5M9
+630,henderson,illinois,il,oquawka,KBRL
+631,henry,illinois,il,cambridge,KMLI
+632,iroquois,illinois,il,watseka,KIKK
+633,jackson,illinois,il,murphysboro,KMDH
+634,jasper,illinois,il,newton,
+635,jefferson,illinois,il,mount-vernon,KMVN
+636,jersey,illinois,il,jerseyville,KSET
+637,jo daviess,illinois,il,galena,KDBQ
+638,johnson,illinois,il,vienna,KM30
+639,kane,illinois,il,geneva,KDPA
+640,kankakee,illinois,il,kankakee,KIKK
+641,kendall,illinois,il,yorkville,KARR
+642,knox,illinois,il,galesburg,KGBG
+643,lake,illinois,il,waukegan,KUGN
+644,lasalle,illinois,il,ottawa,KVYS
+645,lawrence,illinois,il,lawrenceville,KAJG
+646,lee,illinois,il,dixon,KSQI
+647,livingston,illinois,il,pontiac,KPNT
+648,logan,illinois,il,lincoln,KAAA
+649,mcdonough,illinois,il,macomb,KMQB
+650,mchenry,illinois,il,,
+651,mclean,illinois,il,bloomington,KBMI
+652,macon,illinois,il,decatur,KDEC
+653,macoupin,illinois,il,carlinville,K3LF
+654,madison,illinois,il,edwardsville,KALN
+655,marion,illinois,il,salem,KSLO
+656,marshall,illinois,il,lacon,KC75
+657,mason,illinois,il,havana,KPIA
+658,massac,illinois,il,metropolis,
+659,menard,illinois,il,petersburg,KSPI
+660,mercer,illinois,il,aledo,KMLI
+661,monroe,illinois,il,waterloo,
+662,montgomery,illinois,il,hillsboro,K3LF
+663,morgan,illinois,il,jacksonville,KIJX
+664,moultrie,illinois,il,sullivan,KMTO
+665,ogle,illinois,il,oregon,KRPJ
+666,peoria,illinois,il,peoria,KPIA
+667,perry,illinois,il,pinckneyville,KSAR
+668,piatt,illinois,il,monticello,KCMI
+669,pike,illinois,il,pittsfield,KPPQ
+670,pope,illinois,il,golconda,KM30
+671,pulaski,illinois,il,mound-city,KCIR
+672,putnam,illinois,il,hennepin,KVYS
+673,randolph,illinois,il,chester,KSAR
+674,richland,illinois,il,olney,KOLY
+675,rock island,illinois,il,rock-island,KMLI
+676,stclair,illinois,il,belleville,KBLV
+677,saline,illinois,il,harrisburg,KHSB
+678,sangamon,illinois,il,,
+679,schuyler,illinois,il,rushville,KMQB
+680,scott,illinois,il,winchester,KIJX
+681,shelby,illinois,il,shelbyville,K1H2
+682,stark,illinois,il,toulon,KC75
+683,stephenson,illinois,il,freeport,KFEP
+684,tazewell,illinois,il,pekin,KPIA
+685,union,illinois,il,jonesboro,KCGI
+686,vermilion,illinois,il,danville,KDNV
+687,wabash,illinois,il,mount-carmel,KAJG
+688,warren,illinois,il,monmouth,KGBG
+689,washington,illinois,il,nashville,KENL
+690,wayne,illinois,il,fairfield,KFWC
+691,white,illinois,il,,
+692,whiteside,illinois,il,morrison,KSQI
+693,will,illinois,il,joliet,KJOT
+694,williamson,illinois,il,marion,KMWA
+695,winnebago,illinois,il,rockford,KRFD
+696,woodford,illinois,il,eureka,KC75
+697,adams,indiana,in,,
+698,allen,indiana,in,fort-wayne,KFWA
+699,bartholomew,indiana,in,columbus,KBAK
+700,benton,indiana,in,fowler,KRZL
+701,blackford,indiana,in,hartford-city,
+702,boone,indiana,in,lebanon,KTYQ
+703,brown,indiana,in,nashville,KBAK
+704,carroll,indiana,in,delphi,KGGP
+705,cass,indiana,in,logansport,KGGP
+706,clark,indiana,in,jeffersonville,KLOU
+707,clay,indiana,in,brazil,KHUF
+708,clinton,indiana,in,frankfort,KTYQ
+709,crawford,indiana,in,english,KHNB
+710,daviess,indiana,in,washington,KDCY
+711,dearborn,indiana,in,lawrenceburg,KCVG
+712,decatur,indiana,in,greensburg,KBAK
+713,dekalb,indiana,in,auburn,KGWB
+714,delaware,indiana,in,muncie,KMIE
+715,dubois,indiana,in,jasper,KHNB
+716,elkhart,indiana,in,goshen,KGSH
+717,fayette,indiana,in,,
+718,floyd,indiana,in,new-albany,
+719,fountain,indiana,in,covington,KDNV
+720,franklin,indiana,in,brookville,KHAO
+721,fulton,indiana,in,rochester,KASW
+722,gibson,indiana,in,princeton,KAJG
+723,grant,indiana,in,marion,KMZZ
+724,greene,indiana,in,bloomfield,KBMG
+725,hamilton,indiana,in,noblesville,KTYQ
+726,hancock,indiana,in,greenfield,KMQJ
+727,harrison,indiana,in,corydon,KSDF
+728,hendricks,indiana,in,danville,KIND
+729,henry,indiana,in,new-castle,KAID
+730,howard,indiana,in,kokomo,KOKK
+731,huntington,indiana,in,huntington,KFWA
+732,jackson,indiana,in,brownstown,KBAK
+733,jasper,indiana,in,rensselaer,KRZL
+734,jay,indiana,in,portland,KMIE
+735,jefferson,indiana,in,madison,KLOU
+736,jennings,indiana,in,vernon,KBAK
+737,johnson,indiana,in,franklin,KGEZ
+738,knox,indiana,in,vincennes,KAJG
+739,kosciusko,indiana,in,warsaw,KASW
+740,lagrange,indiana,in,lagrange,KIRS
+741,lake,indiana,in,crown-point,KIGQ
+742,laporte,indiana,in,la-porte,KPPO
+743,lawrence,indiana,in,bedford,KBMG
+744,madison,indiana,in,anderson,KAID
+745,marion,indiana,in,indianapolis,
+746,marshall,indiana,in,plymouth,KOXI
+747,martin,indiana,in,shoals,KDCY
+748,miami,indiana,in,peru,KGUS
+749,monroe,indiana,in,bloomington,KBMG
+750,montgomery,indiana,in,crawfordsville,KLAF
+751,morgan,indiana,in,martinsville,KIND
+752,newton,indiana,in,kentland,KRZL
+753,noble,indiana,in,albion,KGWB
+754,ohio,indiana,in,rising-sun,KCVG
+755,orange,indiana,in,paoli,KHNB
+756,owen,indiana,in,spencer,KBMG
+757,parke,indiana,in,rockville,KHUF
+758,perry,indiana,in,tell-city,KHNB
+759,pike,indiana,in,petersburg,KDCY
+760,porter,indiana,in,valparaiso,KVPZ
+761,posey,indiana,in,mount-vernon,KEHR
+762,pulaski,indiana,in,winamac,KOXI
+763,putnam,indiana,in,greencastle,KHUF
+764,randolph,indiana,in,winchester,KMIE
+765,ripley,indiana,in,versailles,KCVG
+766,rush,indiana,in,rushville,KGEZ
+767,st. joseph,indiana,in,south-bend,KSBN
+768,scott,indiana,in,scottsburg,KLOU
+769,shelby,indiana,in,shelbyville,KGEZ
+770,spencer,indiana,in,rockport,KOWB
+771,starke,indiana,in,knox,KOXI
+772,steuben,indiana,in,angola,KOEB
+773,sullivan,indiana,in,sullivan,KRSV
+774,switzerland,indiana,in,vevay,KCVG
+775,tippecanoe,indiana,in,lafayette,KLAF
+776,tipton,indiana,in,tipton,KOKK
+777,union,indiana,in,liberty,KHAO
+778,vanderburgh,indiana,in,evansville,KEVV
+779,vermillion,indiana,in,newport,KPRG
+780,vigo,indiana,in,terre-haute,KHUF
+781,wabash,indiana,in,wabash,KGUS
+782,warren,indiana,in,williamsport,KDNV
+783,warrick,indiana,in,boonville,KEVV
+784,washington,indiana,in,salem,KLOU
+785,wayne,indiana,in,richmond,KVES
+786,wells,indiana,in,bluffton,KFWA
+787,white,indiana,in,monticello,KGGP
+788,whitley,indiana,in,columbia-city,KASW
+789,adair,iowa,ia,greenfield,KCSQ
+790,adams,iowa,ia,corning,KCSQ
+791,allamakee,iowa,ia,waukon,KDEH
+792,appanoose,iowa,ia,centerville,KTVK
+793,audubon,iowa,ia,audubon,KADU
+794,benton,iowa,ia,vinton,KVTI
+795,black hawk,iowa,ia,waterloo,KALO
+796,boone,iowa,ia,boone,KBNW
+797,bremer,iowa,ia,waverly,KALO
+798,buchanan,iowa,ia,independence,KOLZ
+799,buena vista,iowa,ia,storm-lake,KSLB
+800,butler,iowa,ia,allison,KCCY
+801,calhoun,iowa,ia,rockwell-city,KFOD
+802,carroll,iowa,ia,carroll,KCIN
+803,cass,iowa,ia,atlantic,KAIO
+804,cedar,iowa,ia,tipton,KIOW
+805,cerro gordo,iowa,ia,mason-city,KMCW
+806,cherokee,iowa,ia,cherokee,KCKP
+807,chickasaw,iowa,ia,new-hampton,KCCY
+808,clarke,iowa,ia,osceola,KI75
+809,clay,iowa,ia,spencer,KSPW
+810,clayton,iowa,ia,elkader,KPDC
+811,clinton,iowa,ia,clinton,KCWI
+812,crawford,iowa,ia,denison,KDNS
+813,dallas,iowa,ia,adel,KPRO
+814,davis,iowa,ia,bloomfield,KOTM
+815,decatur,iowa,ia,leon,KLWD
+816,delaware,iowa,ia,manchester,KMXO
+817,des moines,iowa,ia,burlington,KBRL
+818,dickinson,iowa,ia,spirit-lake,KMJQ
+819,dubuque,iowa,ia,dubuque,KDBQ
+820,emmet,iowa,ia,estherville,KEST
+821,fayette,iowa,ia,west-union,KOLZ
+822,floyd,iowa,ia,charles-city,KCCY
+823,franklin,iowa,ia,hampton,KIFA
+824,fremont,iowa,ia,sidney,KSDA
+825,greene,iowa,ia,jefferson,KPRO
+826,grundy,iowa,ia,grundy-center,KMIW
+827,guthrie,iowa,ia,guthrie-center,KPRO
+828,hamilton,iowa,ia,webster-city,KCAV
+829,hancock,iowa,ia,garner,KFXY
+830,hardin,iowa,ia,eldora,KIFA
+831,harrison,iowa,ia,logan,KTQE
+832,henry,iowa,ia,mount-pleasant,KMPZ
+833,howard,iowa,ia,cresco,KDEH
+834,humboldt,iowa,ia,dakota-city,KFOD
+835,ida,iowa,ia,ida-grove,KSLB
+836,iowa,iowa,ia,marengo,KCID
+837,jackson,iowa,ia,maquoketa,KDBQ
+838,jasper,iowa,ia,newton,KTNU
+839,jefferson,iowa,ia,fairfield,KFFL
+840,johnson,iowa,ia,iowa-city,KIOW
+841,jones,iowa,ia,anamosa,KMXO
+842,keokuk,iowa,ia,sigourney,KOOA
+843,kossuth,iowa,ia,algona,KAXA
+844,lee,iowa,ia,fort-madison,KFSW
+845,linn,iowa,ia,cedar-rapids,KCID
+846,louisa,iowa,ia,wapello,KMUT
+847,lucas,iowa,ia,chariton,KCNC
+848,lyon,iowa,ia,rock-rapids,KLYV
+849,madison,iowa,ia,winterset,KDSM
+850,mahaska,iowa,ia,oskaloosa,KOOA
+851,marion,iowa,ia,knoxville,KOXV
+852,marshall,iowa,ia,marshalltown,KMIW
+853,mills,iowa,ia,glenwood,
+854,mitchell,iowa,ia,osage,KCCY
+855,monona,iowa,ia,onawa,KTQE
+856,monroe,iowa,ia,albia,KOTM
+857,montgomery,iowa,ia,red-oak,KRDK
+858,muscatine,iowa,ia,muscatine,KMUT
+859,o'brien,iowa,ia,primghar,KSHL
+860,osceola,iowa,ia,sibley,KSHL
+861,page,iowa,ia,clarinda,KICL
+862,palo alto,iowa,ia,emmetsburg,KAXA
+863,plymouth,iowa,ia,le-mars,KLRJ
+864,pocahontas,iowa,ia,pocahontas,KFOD
+865,polk,iowa,ia,des-moines,KDSM
+866,pottawattamie,iowa,ia,council-bluffs,KOMA
+867,poweshiek,iowa,ia,montezuma,KGGI
+868,ringgold,iowa,ia,mount-ayr,KLWD
+869,sac,iowa,ia,sac-city,KSLB
+870,scott,iowa,ia,davenport,KMLI
+871,shelby,iowa,ia,harlan,KHNR
+872,sioux,iowa,ia,orange-city,KORC
+873,story,iowa,ia,nevada,KAMW
+874,tama,iowa,ia,toledo,KMIW
+875,taylor,iowa,ia,bedford,KICL
+876,union,iowa,ia,creston,KCSQ
+877,van buren,iowa,ia,keosauqua,KFFL
+878,wapello,iowa,ia,ottumwa,KOTM
+879,warren,iowa,ia,indianola,KDSM
+880,washington,iowa,ia,washington,KAWG
+881,wayne,iowa,ia,corydon,KCNC
+882,webster,iowa,ia,fort-dodge,KFOD
+883,winnebago,iowa,ia,forest-city,KFXY
+884,winneshiek,iowa,ia,decorah,KDEH
+885,woodbury,iowa,ia,sioux-city,KSUX
+886,worth,iowa,ia,northwood,KAEL
+887,wright,iowa,ia,clarion,KCAV
+888,allen,kansas,ks,iola,KCNU
+889,anderson,kansas,ks,garnett,KIXD
+890,atchison,kansas,ks,atchison,KSTJ
+891,barber,kansas,ks,medicine-lodge,KPTT
+892,barton,kansas,ks,great-bend,KGBD
+893,bourbon,kansas,ks,fort-scott,KPTS
+894,brown,kansas,ks,hiawatha,KFNB
+895,butler,kansas,ks,el-dorado,KAAO
+896,chase,kansas,ks,cottonwood-falls,KEMP
+897,chautauqua,kansas,ks,sedan,KIDP
+898,cherokee,kansas,ks,columbus,KJLN
+899,cheyenne,kansas,ks,st.-francis,KSYF
+900,clark,kansas,ks,ashland,KDDC
+901,clay,kansas,ks,clay-center,KMHK
+902,cloud,kansas,ks,concordia,KCNK
+903,coffey,kansas,ks,burlington,
+904,comanche,kansas,ks,coldwater,KPTT
+905,cowley,kansas,ks,winfield,
+906,crawford,kansas,ks,girard,KPTS
+907,decatur,kansas,ks,oberlin,KMCK
+908,dickinson,kansas,ks,abilene,KSLN
+909,doniphan,kansas,ks,troy,KSTJ
+910,douglas,kansas,ks,lawrence,KLWC
+911,edwards,kansas,ks,kinsley,
+912,elk,kansas,ks,howard,KIDP
+913,ellis,kansas,ks,hays,KHYS
+914,ellsworth,kansas,ks,ellsworth,KSLN
+915,finney,kansas,ks,garden-city,KGCK
+916,ford,kansas,ks,dodge-city,KDDC
+917,franklin,kansas,ks,ottawa,KIXD
+918,geary,kansas,ks,junction-city,KFRI
+919,gove,kansas,ks,gove-city,
+920,graham,kansas,ks,hill-city,KHLC
+921,grant,kansas,ks,ulysses,KGCK
+922,gray,kansas,ks,cimarron,KDDC
+923,greeley,kansas,ks,tribune,KLAA
+924,greenwood,kansas,ks,eureka,KEMP
+925,hamilton,kansas,ks,syracuse,KLAA
+926,harper,kansas,ks,anthony,KAVK
+927,harvey,kansas,ks,newton,KEWK
+928,haskell,kansas,ks,sublette,
+929,hodgeman,kansas,ks,jetmore,KDDC
+930,jackson,kansas,ks,holton,KTOP
+931,jefferson,kansas,ks,oskaloosa,KLWC
+932,jewell,kansas,ks,mankato,KCNK
+933,johnson,kansas,ks,olathe,KOJC
+934,kearny,kansas,ks,lakin,KGCK
+935,kingman,kansas,ks,kingman,KHUT
+936,kiowa,kansas,ks,greensburg,KPTT
+937,labette,kansas,ks,oswego,KPPF
+938,lane,kansas,ks,dighton,KGCK
+939,leavenworth,kansas,ks,leavenworth,KMCI
+940,lincoln,kansas,ks,lincoln,KSLN
+941,linn,kansas,ks,mound-city,KIXD
+942,logan,kansas,ks,oakley,KCBK
+943,lyon,kansas,ks,emporia,KEMP
+944,mcpherson,kansas,ks,mcpherson,KHUT
+945,marion,kansas,ks,marion,KEWK
+946,marshall,kansas,ks,marysville,KBIE
+947,meade,kansas,ks,meade,
+948,miami,kansas,ks,paola,KIXD
+949,mitchell,kansas,ks,beloit,KCNK
+950,montgomery,kansas,ks,independence,KIDP
+951,morris,kansas,ks,council-grove,KEMP
+952,morton,kansas,ks,elkhart,KGUY
+953,nemaha,kansas,ks,seneca,KFNB
+954,neosho,kansas,ks,erie,KCNU
+955,ness,kansas,ks,ness-city,KHYS
+956,norton,kansas,ks,norton,KHLC
+957,osage,kansas,ks,lyndon,KFOE
+958,osborne,kansas,ks,osborne,KRSL
+959,ottawa,kansas,ks,minneapolis,KSLN
+960,pawnee,kansas,ks,larned,KGBD
+961,phillips,kansas,ks,phillipsburg,KHLC
+962,pottawatomie,kansas,ks,westmoreland,KMHK
+963,pratt,kansas,ks,pratt,KPTT
+964,rawlins,kansas,ks,atwood,KCBK
+965,reno,kansas,ks,hutchinson,KHUT
+966,republic,kansas,ks,belleville,KCNK
+967,rice,kansas,ks,lyons,KHUT
+968,riley,kansas,ks,manhattan,KMHK
+969,rooks,kansas,ks,stockton,KHLC
+970,rush,kansas,ks,la-crosse,KHYS
+971,russell,kansas,ks,russell,KRSL
+972,saline,kansas,ks,salina,KSLN
+973,scott,kansas,ks,scott-city,KGCK
+974,sedgwick,kansas,ks,wichita,KICT
+975,seward,kansas,ks,liberal,
+976,shawnee,kansas,ks,,
+977,sheridan,kansas,ks,hoxie,KHLC
+978,sherman,kansas,ks,goodland,KGLD
+979,smith,kansas,ks,smith-center,KHDE
+980,stafford,kansas,ks,st.-john,KPTT
+981,stanton,kansas,ks,johnson-city,
+982,stevens,kansas,ks,hugoton,
+983,sumner,kansas,ks,wellington,
+984,thomas,kansas,ks,colby,KCBK
+985,trego,kansas,ks,wakeeney,KHLC
+986,wabaunsee,kansas,ks,alma,KMHK
+987,wallace,kansas,ks,sharon-springs,KGLD
+988,washington,kansas,ks,washington,KHJH
+989,wichita,kansas,ks,leoti,KGCK
+990,wilson,kansas,ks,fredonia,KCNU
+991,woodson,kansas,ks,yates-center,KCNU
+992,wyandotte,kansas,ks,kansas-city,KMKC
+993,adair,kentucky,ky,columbia,KGLW
+994,allen,kentucky,ky,scottsville,KBWG
+995,anderson,kentucky,ky,lawrenceburg,KFFT
+996,ballard,kentucky,ky,wickliffe,KCIR
+997,barren,kentucky,ky,glasgow,KGLW
+998,bath,kentucky,ky,owingsville,KIOB
+999,bell,kentucky,ky,pineville,K1A6
+1000,boone,kentucky,ky,burlington,KCVG
+1001,bourbon,kentucky,ky,paris,KIOB
+1002,boyd,kentucky,ky,catlettsburg,KHTS
+1003,boyle,kentucky,ky,danville,KDVK
+1004,bracken,kentucky,ky,brooksville,KI69
+1005,breathitt,kentucky,ky,jackson,KJKL
+1006,breckinridge,kentucky,ky,hardinsburg,KFTK
+1007,bullitt,kentucky,ky,shepherdsville,KSDF
+1008,butler,kentucky,ky,morgantown,KBWG
+1009,caldwell,kentucky,ky,princeton,K5M9
+1010,calloway,kentucky,ky,murray,KCEY
+1011,campbell,kentucky,ky,alexandria,KLUK
+1012,carlisle,kentucky,ky,bardwell,KCIR
+1013,carroll,kentucky,ky,carrollton,KFFT
+1014,carter,kentucky,ky,grayson,KHTS
+1015,casey,kentucky,ky,liberty,KDVK
+1016,christian,kentucky,ky,hopkinsville,KHOP
+1017,clark,kentucky,ky,winchester,KIOB
+1018,clay,kentucky,ky,manchester,KLOZ
+1019,clinton,kentucky,ky,albany,KSME
+1020,crittenden,kentucky,ky,marion,K5M9
+1021,cumberland,kentucky,ky,burkesville,KGLW
+1022,daviess,kentucky,ky,owensboro,KOWB
+1023,edmonson,kentucky,ky,brownsville,KBWG
+1024,elliott,kentucky,ky,sandy-hook,KSJS
+1025,estill,kentucky,ky,irvine,KIOB
+1026,fayette,kentucky,ky,lexington,KLEX
+1027,fleming,kentucky,ky,flemingsburg,KIOB
+1028,floyd,kentucky,ky,prestonsburg,KSJS
+1029,franklin,kentucky,ky,frankfort,KFFT
+1030,fulton,kentucky,ky,hickman,KUCY
+1031,gallatin,kentucky,ky,warsaw,
+1032,garrard,kentucky,ky,lancaster,KDVK
+1033,grant,kentucky,ky,williamstown,KCVG
+1034,graves,kentucky,ky,mayfield,KM25
+1035,grayson,kentucky,ky,leitchfield,KFTK
+1036,green,kentucky,ky,greensburg,KGLW
+1037,greenup,kentucky,ky,greenup,KHTS
+1038,hancock,kentucky,ky,hawesville,KOWB
+1039,hardin,kentucky,ky,elizabethtown,KFTK
+1040,harlan,kentucky,ky,harlan,KI35
+1041,harrison,kentucky,ky,cynthiana,KIOB
+1042,hart,kentucky,ky,munfordville,KGLW
+1043,henderson,kentucky,ky,henderson,KEHR
+1044,henry,kentucky,ky,new-castle,KFFT
+1045,hickman,kentucky,ky,clinton,KUCY
+1046,hopkins,kentucky,ky,madisonville,K2I0
+1047,jackson,kentucky,ky,mckee,KLOZ
+1048,jefferson,kentucky,ky,louisville,KLOU
+1049,jessamine,kentucky,ky,nicholasville,KLEX
+1050,johnson,kentucky,ky,paintsville,KSJS
+1051,kenton,kentucky,ky,covington,KLUK
+1052,knott,kentucky,ky,hindman,KJKL
+1053,knox,kentucky,ky,barbourville,KLOZ
+1054,larue,kentucky,ky,hodgenville,KFTK
+1055,laurel,kentucky,ky,london,KLOZ
+1056,lawrence,kentucky,ky,louisa,KHTS
+1057,lee,kentucky,ky,beattyville,KJKL
+1058,leslie,kentucky,ky,hyden,KI35
+1059,letcher,kentucky,ky,whitesburg,KLNP
+1060,lewis,kentucky,ky,vanceburg,KHTS
+1061,lincoln,kentucky,ky,stanford,KDVK
+1062,livingston,kentucky,ky,smithland,KM30
+1063,logan,kentucky,ky,russellville,KBWG
+1064,lyon,kentucky,ky,eddyville,K5M9
+1065,mccracken,kentucky,ky,paducah,KPAH
+1066,mccreary,kentucky,ky,whitley-city,KSME
+1067,mclean,kentucky,ky,calhoun,K2I0
+1068,madison,kentucky,ky,richmond,KLEX
+1069,magoffin,kentucky,ky,salyersville,KJKL
+1070,marion,kentucky,ky,lebanon,KDVK
+1071,marshall,kentucky,ky,benton,KCEY
+1072,martin,kentucky,ky,inez,KSJS
+1073,mason,kentucky,ky,maysville,KI69
+1074,meade,kentucky,ky,brandenburg,KFTK
+1075,menifee,kentucky,ky,frenchburg,KIOB
+1076,mercer,kentucky,ky,harrodsburg,KDVK
+1077,metcalfe,kentucky,ky,edmonton,KGLW
+1078,monroe,kentucky,ky,tompkinsville,KGLW
+1079,montgomery,kentucky,ky,mount-sterling,KIOB
+1080,morgan,kentucky,ky,west-liberty,KJKL
+1081,muhlenberg,kentucky,ky,greenville,K2I0
+1082,nelson,kentucky,ky,bardstown,KFTK
+1083,nicholas,kentucky,ky,carlisle,KIOB
+1084,ohio,kentucky,ky,hartford,KOWB
+1085,oldham,kentucky,ky,,
+1086,owen,kentucky,ky,owenton,KFFT
+1087,owsley,kentucky,ky,,
+1088,pendleton,kentucky,ky,falmouth,KI69
+1089,perry,kentucky,ky,hazard,KJKL
+1090,pike,kentucky,ky,pikeville,KSJS
+1091,powell,kentucky,ky,stanton,KIOB
+1092,pulaski,kentucky,ky,somerset,KSME
+1093,robertson,kentucky,ky,mount-olivet,KIOB
+1094,rockcastle,kentucky,ky,mount-vernon,KLOZ
+1095,rowan,kentucky,ky,morehead,KIOB
+1096,russell,kentucky,ky,jamestown,KSME
+1097,scott,kentucky,ky,georgetown,
+1098,shelby,kentucky,ky,shelbyville,KFFT
+1099,simpson,kentucky,ky,franklin,KBWG
+1100,spencer,kentucky,ky,taylorsville,KLOU
+1101,taylor,kentucky,ky,campbellsville,KDVK
+1102,todd,kentucky,ky,elkton,KHOP
+1103,trigg,kentucky,ky,cadiz,KHOP
+1104,trimble,kentucky,ky,bedford,KLOU
+1105,union,kentucky,ky,morganfield,KEHR
+1106,warren,kentucky,ky,bowling-green,KBWG
+1107,washington,kentucky,ky,springfield,KDVK
+1108,wayne,kentucky,ky,monticello,KSME
+1109,webster,kentucky,ky,dixon,K2I0
+1110,whitley,kentucky,ky,williamsburg,KLOZ
+1111,wolfe,kentucky,ky,campton,KJKL
+1112,woodford,kentucky,ky,versailles,KLEX
+1113,acadia parish,louisiana,la,crowley,K3R7
+1114,allen parish,louisiana,la,oberlin,KACP
+1115,ascension parish,louisiana,la,donaldsonville,KBTR
+1116,assumption parish,louisiana,la,napoleonville,KP92
+1117,avoyelles parish,louisiana,la,marksville,KESF
+1118,beauregard parish,louisiana,la,deridder,KDRI
+1119,bienville parish,louisiana,la,arcadia,KRSN
+1120,bossier parish,louisiana,la,benton,KDTN
+1121,caddo parish,louisiana,la,shreveport,KDTN
+1122,calcasieu parish,louisiana,la,lake-charles,KCWF
+1123,caldwell parish,louisiana,la,columbia,KMLU
+1124,cameron parish,louisiana,la,cameron,KUXL
+1125,catahoula parish,louisiana,la,harrisonburg,KHEZ
+1126,claiborne parish,louisiana,la,homer,KMNE
+1127,concordia parish,louisiana,la,vidalia,KHEZ
+1128,de soto parish,louisiana,la,mansfield,KSHV
+1129,east baton rouge parish,louisiana,la,baton-rouge,KBTR
+1130,east carroll parish,louisiana,la,lake-providence,KTVR
+1131,east feliciana parish,louisiana,la,clinton,KBTR
+1132,evangeline parish,louisiana,la,,
+1133,franklin parish,louisiana,la,winnsboro,
+1134,grant parish,louisiana,la,colfax,KAEX
+1135,iberia parish,louisiana,la,new-iberia,KARA
+1136,iberville parish,louisiana,la,plaquemine,KBTR
+1137,jackson parish,louisiana,la,jonesboro,
+1138,jefferson parish,louisiana,la,gretna,KNBG
+1139,jefferson davis parish,louisiana,la,jennings,K3R7
+1140,lafayette parish,louisiana,la,lafayette,KLFT
+1141,lafourche parish,louisiana,la,thibodaux,KHUM
+1142,la salle parish,louisiana,la,jena,KESF
+1143,lincoln parish,louisiana,la,ruston,KRSN
+1144,livingston parish,louisiana,la,livingston,KHDC
+1145,madison parish,louisiana,la,tallulah,
+1146,morehouse parish,louisiana,la,bastrop,KBQP
+1147,natchitoches parish,louisiana,la,natchitoches,KIER
+1148,orleans parish,louisiana,la,,
+1149,ouachita parish,louisiana,la,monroe,KMLU
+1150,plaquemines parish,louisiana,la,,
+1151,pointe coupee parish,louisiana,la,new-roads,KHZR
+1152,rapides parish,louisiana,la,alexandria,KAEX
+1153,red river parish,louisiana,la,coushatta,KIER
+1154,richland parish,louisiana,la,rayville,KMLU
+1155,sabine parish,louisiana,la,many,KAQV
+1156,st. bernard parish,louisiana,la,chalmette,KNEW
+1157,st. charles parish,louisiana,la,hahnville,KMSY
+1158,st. helena parish,louisiana,la,greensburg,KHDC
+1159,st. james parish,louisiana,la,convent,KHUM
+1160,st. john the baptist parish,louisiana,la,edgard,KMSY
+1161,st. landry parish,louisiana,la,opelousas,KOPL
+1162,st. martin parish,louisiana,la,st.-martinville,KARA
+1163,st. mary parish,louisiana,la,franklin,KARA
+1164,st. tammany parish,louisiana,la,covington,KHDC
+1165,tangipahoa parish,louisiana,la,amite-city,KHDC
+1166,tensas parish,louisiana,la,st.-joseph,KHEZ
+1167,terrebonne parish,louisiana,la,houma,KHUM
+1168,union parish,louisiana,la,farmerville,KRSN
+1169,vermilion parish,louisiana,la,abbeville,KIYA
+1170,vernon parish,louisiana,la,leesville,KPOE
+1171,washington parish,louisiana,la,franklinton,KBXA
+1172,webster parish,louisiana,la,minden,KMNE
+1173,west baton rouge parish,louisiana,la,port-allen,
+1174,west carroll parish,louisiana,la,"oak-grove,-west-carroll-parish",
+1175,west feliciana parish,louisiana,la,st.-francisville,KHZR
+1176,winn parish,louisiana,la,winnfield,KIER
+1177,androscoggin,maine,me,auburn,KLEW
+1178,aroostook,maine,me,houlton,KHUL
+1179,cumberland,maine,me,portland,KPWM
+1180,franklin,maine,me,farmington,KWVL
+1181,hancock,maine,me,ellsworth,KBHB
+1182,kennebec,maine,me,augusta,KAUG
+1183,knox,maine,me,rockland,KRKD
+1184,lincoln,maine,me,wiscasset,KIWI
+1185,oxford,maine,me,paris,KLEW
+1186,penobscot,maine,me,bangor,KBGR
+1187,piscataquis,maine,me,dover-foxcroft,KBGR
+1188,sagadahoc,maine,me,bath,KIWI
+1189,somerset,maine,me,skowhegan,KWVL
+1190,waldo,maine,me,belfast,KRKD
+1191,washington,maine,me,machias,KBHB
+1192,york,maine,me,alfred,KSFM
+1193,allegany,maryland,md,cumberland,KCBE
+1194,anne arundel,maryland,md,annapolis,KNAK
+1195,baltimore,maryland,md,towson,
+1196,calvert,maryland,md,prince-frederick,K2W6
+1197,caroline,maryland,md,denton,KESN
+1198,carroll,maryland,md,westminster,
+1199,cecil,maryland,md,elkton,KILG
+1200,charles,maryland,md,la-plata,KDAA
+1201,dorchester,maryland,md,cambridge,
+1202,frederick,maryland,md,,
+1203,garrett,maryland,md,oakland,K2G4
+1204,harford,maryland,md,bel-air,
+1205,howard,maryland,md,ellicott-city,KBWI
+1206,kent,maryland,md,chestertown,KAPG
+1207,montgomery,maryland,md,rockville,KGAI
+1208,prince george's,maryland,md,upper-marlboro,KADW
+1209,queen anne's,maryland,md,centreville,
+1210,st. mary's,maryland,md,leonardtown,K2W6
+1211,somerset,maryland,md,princess-anne,KSBY
+1212,talbot,maryland,md,easton,KESN
+1213,washington,maryland,md,hagerstown,KHGR
+1214,wicomico,maryland,md,salisbury,KSBY
+1215,worcester,maryland,md,snow-hill,KSBY
+1216,city of baltimore,maryland,md,,
+1217,barnstable,massachusetts,ma,barnstable,KHYA
+1218,berkshire,massachusetts,ma,pittsfield,KPSF
+1219,bristol,massachusetts,ma,taunton,KTAN
+1220,dukes,massachusetts,ma,edgartown,KMVY
+1221,essex,massachusetts,ma,salem,KBVY
+1222,franklin,massachusetts,ma,greenfield,
+1223,hampden,massachusetts,ma,springfield,KCEF
+1224,hampshire,massachusetts,ma,northampton,KCEF
+1225,middlesex,massachusetts,ma,lowell,KBED
+1226,town and of nantucket,massachusetts,ma,,
+1227,norfolk,massachusetts,ma,dedham,
+1228,plymouth,massachusetts,ma,plymouth,KPYM
+1229,suffolk,massachusetts,ma,boston,KBOS
+1230,worcester,massachusetts,ma,worcester,KORH
+1231,alcona,michigan,mi,harrisville,
+1232,alger,michigan,mi,,
+1233,allegan,michigan,mi,allegan,KBIV
+1234,alpena,michigan,mi,alpena,KAPN
+1235,antrim,michigan,mi,bellaire,KACB
+1236,arenac,michigan,mi,standish,KIKW
+1237,baraga,michigan,mi,l'anse,
+1238,barry,michigan,mi,hastings,KGRR
+1239,bay,michigan,mi,bay-city,KMBS
+1240,benzie,michigan,mi,beulah,KFKS
+1241,berrien,michigan,mi,st.-joseph,
+1242,branch,michigan,mi,coldwater,KOEB
+1243,calhoun,michigan,mi,marshall,KRMY
+1244,cass,michigan,mi,cassopolis,KEKM
+1245,charlevoix,michigan,mi,charlevoix,KCVX
+1246,cheboygan,michigan,mi,cheboygan,KSLH
+1247,chippewa,michigan,mi,sault-ste.-marie,LFMV
+1248,clare,michigan,mi,harrison,KHTL
+1249,clinton,michigan,mi,st.-johns,
+1250,crawford,michigan,mi,grayling,KGOV
+1251,delta,michigan,mi,escanaba,KSAW
+1252,dickinson,michigan,mi,iron-mountain,KIMT
+1253,eaton,michigan,mi,charlotte,KFPK
+1254,emmet,michigan,mi,petoskey,KMGN
+1255,genesee,michigan,mi,flint,KFNT
+1256,gladwin,michigan,mi,gladwin,KIKW
+1257,gogebic,michigan,mi,bessemer,KIWD
+1258,grand traverse,michigan,mi,traverse-city,KTVC
+1259,gratiot,michigan,mi,ithaca,KAMN
+1260,hillsdale,michigan,mi,hillsdale,KJYM
+1261,houghton,michigan,mi,houghton,KCMX
+1262,huron,michigan,mi,bad-axe,KBAX
+1263,ingham,michigan,mi,mason,KTEW
+1264,ionia,michigan,mi,ionia,
+1265,iosco,michigan,mi,tawas-city,KOSC
+1266,iron,michigan,mi,crystal-falls,KIMT
+1267,isabella,michigan,mi,mount-pleasant,KMOP
+1268,jackson,michigan,mi,jackson,KJXN
+1269,kalamazoo,michigan,mi,kalamazoo,KAZO
+1270,kalkaska,michigan,mi,kalkaska,KACB
+1271,kent,michigan,mi,grand-rapids,KGRR
+1272,keweenaw,michigan,mi,eagle-river,PAEG
+1273,lake,michigan,mi,,
+1274,lapeer,michigan,mi,lapeer,KD95
+1275,leelanau,michigan,mi,suttons-bay,KTVC
+1276,lenawee,michigan,mi,adrian,KADG
+1277,livingston,michigan,mi,howell,KOZW
+1278,luce,michigan,mi,newberry,
+1279,mackinac,michigan,mi,st.-ignace,KMCD
+1280,macomb,michigan,mi,mount-clemens,KMTC
+1281,manistee,michigan,mi,manistee,KMBL
+1282,marquette,michigan,mi,marquette,KSAW
+1283,mason,michigan,mi,ludington,KLDM
+1284,mecosta,michigan,mi,big-rapids,KRQB
+1285,menominee,michigan,mi,menominee,KSUE
+1286,midland,michigan,mi,midland,KIKW
+1287,missaukee,michigan,mi,lake-city,KCAD
+1288,monroe,michigan,mi,monroe,KTTF
+1289,montcalm,michigan,mi,stanton,KAMN
+1290,montmorency,michigan,mi,atlanta,KGLR
+1291,muskegon,michigan,mi,muskegon,KMKG
+1292,newaygo,michigan,mi,white-cloud,KFFX
+1293,oakland,michigan,mi,pontiac,KPTK
+1294,oceana,michigan,mi,hart,KLDM
+1295,ogemaw,michigan,mi,west-branch,KHTL
+1296,ontonagon,michigan,mi,ontonagon,KCMX
+1297,osceola,michigan,mi,reed-city,KRQB
+1298,oscoda,michigan,mi,mio,KGOV
+1299,otsego,michigan,mi,gaylord,KGLR
+1300,ottawa,michigan,mi,grand-haven,KMKG
+1301,presque isle,michigan,mi,rogers-city,KPZQ
+1302,roscommon,michigan,mi,roscommon,KHTL
+1303,saginaw,michigan,mi,saginaw,KHYX
+1304,st. clair,michigan,mi,port-huron,KPHN
+1305,st. joseph,michigan,mi,centreville,KHAI
+1306,sanilac,michigan,mi,sandusky,KBAX
+1307,schoolcraft,michigan,mi,manistique,KISQ
+1308,shiawassee,michigan,mi,corunna,KRNP
+1309,tuscola,michigan,mi,,
+1310,van buren,michigan,mi,paw-paw,KAZO
+1311,washtenaw,michigan,mi,ann-arbor,KARB
+1312,wayne,michigan,mi,detroit,KDET
+1313,wexford,michigan,mi,cadillac,KCAD
+1314,aitkin,minnesota,mn,aitkin,KAIT
+1315,anoka,minnesota,mn,anoka,KANE
+1316,becker,minnesota,mn,detroit-lakes,KDTL
+1317,beltrami,minnesota,mn,bemidji,KBJI
+1318,benton,minnesota,mn,foley,KSTC
+1319,big stone,minnesota,mn,ortonville,KVVV
+1320,blue earth,minnesota,mn,mankato,KMKT
+1321,brown,minnesota,mn,new-ulm,KULM
+1322,carlton,minnesota,mn,carlton,KCOQ
+1323,carver,minnesota,mn,chaska,KFCM
+1324,cass,minnesota,mn,walker,KXVG
+1325,chippewa,minnesota,mn,montevideo,
+1326,chisago,minnesota,mn,center-city,KOEO
+1327,clay,minnesota,mn,moorhead,KFAR
+1328,clearwater,minnesota,mn,bagley,KFSE
+1329,cook,minnesota,mn,grand-marais,KCKC
+1330,cottonwood,minnesota,mn,windom,KMWM
+1331,crow wing,minnesota,mn,brainerd,KBRD
+1332,dakota,minnesota,mn,hastings,KSGS
+1333,dodge,minnesota,mn,mantorville,KTOB
+1334,douglas,minnesota,mn,alexandria,KAXN
+1335,faribault,minnesota,mn,blue-earth,KFRM
+1336,fillmore,minnesota,mn,preston,KFKA
+1337,freeborn,minnesota,mn,albert-lea,KAEL
+1338,goodhue,minnesota,mn,red-wing,KRGK
+1339,grant,minnesota,mn,elbow-lake,KY63
+1340,hennepin,minnesota,mn,minneapolis,KMIC
+1341,houston,minnesota,mn,caledonia,
+1342,hubbard,minnesota,mn,park-rapids,KPKD
+1343,isanti,minnesota,mn,cambridge,KCBG
+1344,itasca,minnesota,mn,grand-rapids,KGPZ
+1345,jackson,minnesota,mn,jackson,KMJQ
+1346,kanabec,minnesota,mn,mora,KJMR
+1347,kandiyohi,minnesota,mn,willmar,KBDH
+1348,kittson,minnesota,mn,hallock,KHCO
+1349,koochiching,minnesota,mn,international-falls,KINL
+1350,lac qui parle,minnesota,mn,madison,KDXX
+1351,lake,minnesota,mn,two-harbors,KTWM
+1352,lake of the woods,minnesota,mn,baudette,KBDE
+1353,le sueur,minnesota,mn,le-center,KMKT
+1354,lincoln,minnesota,mn,ivanhoe,KCNB
+1355,lyon,minnesota,mn,marshall,KMML
+1356,mcleod,minnesota,mn,glencoe,KGYL
+1357,mahnomen,minnesota,mn,mahnomen,KFSE
+1358,marshall,minnesota,mn,warren,KGFK
+1359,martin,minnesota,mn,fairmont,KFRM
+1360,meeker,minnesota,mn,litchfield,KLJF
+1361,mille lacs,minnesota,mn,milaca,
+1362,morrison,minnesota,mn,little-falls,KLXL
+1363,mower,minnesota,mn,austin,KAUM
+1364,murray,minnesota,mn,slayton,KDVP
+1365,nicollet,minnesota,mn,st.-peter,KMKT
+1366,nobles,minnesota,mn,worthington,KOTG
+1367,norman,minnesota,mn,ada,KFAR
+1368,olmsted,minnesota,mn,rochester,K9MN
+1369,otter tail,minnesota,mn,fergus-falls,KFFM
+1370,pennington,minnesota,mn,thief-river-falls,KTVF
+1371,pine,minnesota,mn,pine-city,KROS
+1372,pipestone,minnesota,mn,pipestone,KPQN
+1373,polk,minnesota,mn,crookston,KCKN
+1374,pope,minnesota,mn,glenwood,KGHW
+1375,ramsey,minnesota,mn,saint-paul,KSTP
+1376,red lake,minnesota,mn,red-lake-falls,KTVF
+1377,redwood,minnesota,mn,redwood-falls,KRWF
+1378,renville,minnesota,mn,olivia,KOVL
+1379,rice,minnesota,mn,faribault,KFBL
+1380,rock,minnesota,mn,luverne,KLYV
+1381,roseau,minnesota,mn,roseau,KROX
+1382,st. louis,minnesota,mn,duluth,KTWM
+1383,scott,minnesota,mn,shakopee,KFCM
+1384,sherburne,minnesota,mn,,
+1385,sibley,minnesota,mn,gaylord,KGYL
+1386,stearns,minnesota,mn,st.-cloud,KSTC
+1387,steele,minnesota,mn,owatonna,KOWA
+1388,stevens,minnesota,mn,morris,KMOX
+1389,swift,minnesota,mn,benson,KBBB
+1390,todd,minnesota,mn,long-prairie,K14Y
+1391,traverse,minnesota,mn,wheaton,KETH
+1392,wabasha,minnesota,mn,wabasha,KONA
+1393,wadena,minnesota,mn,wadena,KADC
+1394,waseca,minnesota,mn,waseca,KACQ
+1395,washington,minnesota,mn,stillwater,K21D
+1396,watonwan,minnesota,mn,st.-james,KJYG
+1397,wilkin,minnesota,mn,breckenridge,KBWP
+1398,winona,minnesota,mn,winona,KONA
+1399,wright,minnesota,mn,buffalo,KCFE
+1400,yellow medicine,minnesota,mn,granite-falls,
+1401,adams,mississippi,ms,natchez,KHEZ
+1402,alcorn,mississippi,ms,corinth,KTUP
+1403,amite,mississippi,ms,liberty,KMCB
+1404,attala,mississippi,ms,kosciusko,KGWO
+1405,benton,mississippi,ms,ashland,
+1406,bolivar,mississippi,ms,rosedale,KRNV
+1407,calhoun,mississippi,ms,pittsboro,KUOX
+1408,carroll,mississippi,ms,carrollton,KGWO
+1409,chickasaw,mississippi,ms,houston,KTUP
+1410,choctaw,mississippi,ms,ackerman,KSTF
+1411,claiborne,mississippi,ms,port-gibson,KVKS
+1412,clarke,mississippi,ms,quitman,KMEI
+1413,clay,mississippi,ms,west-point,KGTR
+1414,coahoma,mississippi,ms,clarksdale,KRNV
+1415,copiah,mississippi,ms,hazlehurst,KHKS
+1416,covington,mississippi,ms,collins,KPIB
+1417,desoto,mississippi,ms,hernando,KMEM
+1418,forrest,mississippi,ms,hattiesburg,KHBG
+1419,franklin,mississippi,ms,meadville,KHEZ
+1420,george,mississippi,ms,lucedale,KMOB
+1421,greene,mississippi,ms,leakesville,KMOB
+1422,grenada,mississippi,ms,grenada,KGWO
+1423,hancock,mississippi,ms,bay-st.-louis,KHSA
+1424,harrison,mississippi,ms,biloxi,KBIX
+1425,hinds,mississippi,ms,jackson,KHKS
+1426,holmes,mississippi,ms,lexington,KGWO
+1427,humphreys,mississippi,ms,belzoni,KGWO
+1428,issaquena,mississippi,ms,mayersville,KTVR
+1429,itawamba,mississippi,ms,fulton,KTUP
+1430,jackson,mississippi,ms,pascagoula,KPQL
+1431,jasper,mississippi,ms,bay-springs,KPIB
+1432,jefferson,mississippi,ms,fayette,KHEZ
+1433,jefferson davis,mississippi,ms,prentiss,KPIB
+1434,jones,mississippi,ms,laurel,KPIB
+1435,kemper,mississippi,ms,de-kalb,KNMM
+1436,lafayette,mississippi,ms,oxford,KUOX
+1437,lamar,mississippi,ms,purvis,KHBG
+1438,lauderdale,mississippi,ms,meridian,KMEI
+1439,lawrence,mississippi,ms,monticello,KMCB
+1440,leake,mississippi,ms,carthage,KJAN
+1441,lee,mississippi,ms,tupelo,KTUP
+1442,leflore,mississippi,ms,greenwood,KGWO
+1443,lincoln,mississippi,ms,brookhaven,KMCB
+1444,lowndes,mississippi,ms,columbus,KCBM
+1445,madison,mississippi,ms,canton,KJAN
+1446,marion,mississippi,ms,columbia,KBXA
+1447,marshall,mississippi,ms,holly-springs,KUOX
+1448,monroe,mississippi,ms,aberdeen,KCBM
+1449,montgomery,mississippi,ms,winona,KGWO
+1450,neshoba,mississippi,ms,philadelphia,KNMM
+1451,newton,mississippi,ms,decatur,KMEI
+1452,noxubee,mississippi,ms,macon,KGTR
+1453,oktibbeha,mississippi,ms,starkville,
+1454,panola,mississippi,ms,batesville,KUOX
+1455,pearl river,mississippi,ms,poplarville,KBXA
+1456,perry,mississippi,ms,new-augusta,KHBG
+1457,pike,mississippi,ms,magnolia,KMCB
+1458,pontotoc,mississippi,ms,pontotoc,KTUP
+1459,prentiss,mississippi,ms,booneville,KTUP
+1460,quitman,mississippi,ms,marks,KUOX
+1461,rankin,mississippi,ms,brandon,KJAN
+1462,scott,mississippi,ms,forest,KJAN
+1463,sharkey,mississippi,ms,rolling-fork,KTVR
+1464,simpson,mississippi,ms,mendenhall,KJAN
+1465,smith,mississippi,ms,raleigh,KJAN
+1466,stone,mississippi,ms,wiggins,KHBG
+1467,sunflower,mississippi,ms,indianola,KGLH
+1468,tallahatchie,mississippi,ms,charleston,KGWO
+1469,tate,mississippi,ms,senatobia,KMEM
+1470,tippah,mississippi,ms,,
+1471,tishomingo,mississippi,ms,iuka,KMSL
+1472,tunica,mississippi,ms,tunica,KAWM
+1473,union,mississippi,ms,new-albany,KTUP
+1474,walthall,mississippi,ms,tylertown,KMCB
+1475,warren,mississippi,ms,vicksburg,
+1476,washington,mississippi,ms,greenville,KGLH
+1477,wayne,mississippi,ms,waynesboro,KPIB
+1478,webster,mississippi,ms,walthall,KSTF
+1479,wilkinson,mississippi,ms,woodville,KHZR
+1480,winston,mississippi,ms,louisville,KSTF
+1481,yalobusha,mississippi,ms,coffeeville,KUOX
+1482,yazoo,mississippi,ms,yazoo-city,KHKS
+1483,adair,missouri,mo,kirksville,KIRK
+1484,andrew,missouri,mo,savannah,KSTJ
+1485,atchison,missouri,mo,rock-port,KAFK
+1486,audrain,missouri,mo,mexico,KCOU
+1487,barry,missouri,mo,cassville,KHFJ
+1488,barton,missouri,mo,lamar,KPTS
+1489,bates,missouri,mo,butler,KGLY
+1490,benton,missouri,mo,warsaw,KGLY
+1491,bollinger,missouri,mo,,
+1492,boone,missouri,mo,columbia,KCOU
+1493,buchanan,missouri,mo,st.-joseph,KSTJ
+1494,butler,missouri,mo,poplar-bluff,KPOF
+1495,caldwell,missouri,mo,kingston,KGPH
+1496,callaway,missouri,mo,fulton,KCOU
+1497,camden,missouri,mo,camdenton,KAIZ
+1498,cape girardeau,missouri,mo,jackson,KCGI
+1499,carroll,missouri,mo,carrollton,KRCM
+1500,carter,missouri,mo,van-buren,KPOF
+1501,cass,missouri,mo,harrisonville,KLXT
+1502,cedar,missouri,mo,stockton,
+1503,chariton,missouri,mo,keytesville,KVER
+1504,christian,missouri,mo,ozark,
+1505,clark,missouri,mo,kahoka,KEOK
+1506,clay,missouri,mo,liberty,KGPH
+1507,clinton,missouri,mo,plattsburg,KGPH
+1508,cole,missouri,mo,jefferson-city,KJEF
+1509,cooper,missouri,mo,boonville,KVER
+1510,crawford,missouri,mo,steelville,KVIH
+1511,dade,missouri,mo,greenfield,
+1512,dallas,missouri,mo,buffalo,
+1513,daviess,missouri,mo,gallatin,KGPH
+1514,dekalb,missouri,mo,maysville,KSTJ
+1515,dent,missouri,mo,,
+1516,douglas,missouri,mo,ava,KBPK
+1517,dunklin,missouri,mo,kennett,KBYH
+1518,franklin,missouri,mo,union,KFYG
+1519,gasconade,missouri,mo,hermann,KFYG
+1520,gentry,missouri,mo,albany,KLWD
+1521,greene,missouri,mo,springfield,
+1522,grundy,missouri,mo,trenton,KLWD
+1523,harrison,missouri,mo,bethany,KLWD
+1524,henry,missouri,mo,clinton,KGLY
+1525,hickory,missouri,mo,hermitage,KGLY
+1526,holt,missouri,mo,oregon,KSTJ
+1527,howard,missouri,mo,fayette,KVER
+1528,howell,missouri,mo,west-plains,KUNO
+1529,iron,missouri,mo,ironton,KFAM
+1530,jackson,missouri,mo,independence,KMKC
+1531,jasper,missouri,mo,carthage,KJLN
+1532,jefferson,missouri,mo,hillsboro,KSUS
+1533,johnson,missouri,mo,warrensburg,KRCM
+1534,knox,missouri,mo,edina,KIRK
+1535,laclede,missouri,mo,lebanon,KTBN
+1536,lafayette,missouri,mo,lexington,KGPH
+1537,lawrence,missouri,mo,mount-vernon,KHFJ
+1538,lewis,missouri,mo,monticello,KEOK
+1539,lincoln,missouri,mo,troy,KFYG
+1540,linn,missouri,mo,linneus,KIRK
+1541,livingston,missouri,mo,chillicothe,KGPH
+1542,mcdonald,missouri,mo,pineville,KVBT
+1543,macon,missouri,mo,macon,KIRK
+1544,madison,missouri,mo,fredericktown,KFAM
+1545,maries,missouri,mo,vienna,KVIH
+1546,marion,missouri,mo,palmyra,KHAE
+1547,mercer,missouri,mo,princeton,KLWD
+1548,miller,missouri,mo,tuscumbia,KAIZ
+1549,mississippi,missouri,mo,charleston,KCIR
+1550,moniteau,missouri,mo,california,KJEF
+1551,monroe,missouri,mo,paris,KHAE
+1552,montgomery,missouri,mo,montgomery-city,KFYG
+1553,morgan,missouri,mo,versailles,KDMO
+1554,new madrid,missouri,mo,new-madrid,KUCY
+1555,newton,missouri,mo,neosho,KHFJ
+1556,nodaway,missouri,mo,maryville,KICL
+1557,oregon,missouri,mo,alton,KUNO
+1558,osage,missouri,mo,linn,KJEF
+1559,ozark,missouri,mo,gainesville,KBPK
+1560,pemiscot,missouri,mo,,
+1561,perry,missouri,mo,perryville,KSAR
+1562,pettis,missouri,mo,sedalia,KDMO
+1563,phelps,missouri,mo,rolla,KVIH
+1564,pike,missouri,mo,bowling-green,KHAE
+1565,platte,missouri,mo,platte-city,KMCI
+1566,polk,missouri,mo,bolivar,
+1567,pulaski,missouri,mo,waynesville,KTBN
+1568,putnam,missouri,mo,unionville,KTVK
+1569,ralls,missouri,mo,new-london,KHAE
+1570,randolph,missouri,mo,huntsville,KVER
+1571,ray,missouri,mo,richmond,KGPH
+1572,reynolds,missouri,mo,centerville,KFAM
+1573,ripley,missouri,mo,doniphan,K4M9
+1574,st. charles,missouri,mo,st.-charles,KSTL
+1575,st. clair,missouri,mo,osceola,KGLY
+1576,ste. genevieve,missouri,mo,ste.-genevieve,KSAR
+1577,st. francois,missouri,mo,farmington,KFAM
+1578,st. louis,missouri,mo,clayton,KEUF
+1579,saline,missouri,mo,marshall,
+1580,schuyler,missouri,mo,lancaster,KTVK
+1581,scotland,missouri,mo,memphis,
+1582,scott,missouri,mo,benton,KCGI
+1583,shannon,missouri,mo,eminence,KUNO
+1584,shelby,missouri,mo,shelbyville,KHAE
+1585,stoddard,missouri,mo,bloomfield,KPOF
+1586,stone,missouri,mo,galena,KFWB
+1587,sullivan,missouri,mo,milan,KIRK
+1588,taney,missouri,mo,forsyth,KBBG
+1589,texas,missouri,mo,houston,KTBN
+1590,vernon,missouri,mo,nevada,KPTS
+1591,warren,missouri,mo,warrenton,KFYG
+1592,washington,missouri,mo,potosi,KFAM
+1593,wayne,missouri,mo,greenville,KPOF
+1594,webster,missouri,mo,marshfield,
+1595,worth,missouri,mo,grant-city,KLWD
+1596,wright,missouri,mo,hartville,KTBN
+1597,city of st. louis,missouri,mo,,
+1598,beaverhead,montana,mt,dillon,KDLN
+1599,big horn,montana,mt,hardin,KBIL
+1600,blaine,montana,mt,chinook,KHVR
+1601,broadwater,montana,mt,townsend,KHLN
+1602,carbon,montana,mt,red-lodge,KCOD
+1603,carter,montana,mt,ekalaka,KBHK
+1604,cascade,montana,mt,great-falls,KGTF
+1605,chouteau,montana,mt,fort-benton,KGFA
+1606,custer,montana,mt,miles-city,KMLS
+1607,daniels,montana,mt,scobey,KOLF
+1608,dawson,montana,mt,glendive,KGDV
+1609,deer lodge,montana,mt,anaconda,KBTM
+1610,fallon,montana,mt,baker,KBHK
+1611,fergus,montana,mt,lewistown,KLWT
+1612,flathead,montana,mt,kalispell,KMLP
+1613,gallatin,montana,mt,bozeman,KBZN
+1614,garfield,montana,mt,jordan,KGGW
+1615,glacier,montana,mt,cut-bank,KCTB
+1616,golden valley,montana,mt,ryegate,KBIL
+1617,granite,montana,mt,philipsburg,KBTM
+1618,hill,montana,mt,havre,KHVR
+1619,jefferson,montana,mt,boulder,KHLN
+1620,judith basin,montana,mt,stanford,KLWT
+1621,lake,montana,mt,polson,KMSO
+1622,lewis and clark,montana,mt,helena,KHLN
+1623,liberty,montana,mt,chester,KHVR
+1624,lincoln,montana,mt,libby,K65S
+1625,mccone,montana,mt,circle,KGDV
+1626,madison,montana,mt,virginia-city,KDLN
+1627,meagher,montana,mt,white-sulphur-springs,KHLN
+1628,mineral,montana,mt,superior,KMSO
+1629,missoula,montana,mt,missoula,KMSO
+1630,musselshell,montana,mt,roundup,KBIL
+1631,park,montana,mt,,
+1632,petroleum,montana,mt,winnett,KLWT
+1633,phillips,montana,mt,malta,KGGW
+1634,pondera,montana,mt,conrad,KCTB
+1635,powder river,montana,mt,broadus,KW43
+1636,powell,montana,mt,deer-lodge,KBTM
+1637,prairie,montana,mt,terry,KGDV
+1638,ravalli,montana,mt,hamilton,KMSO
+1639,richland,montana,mt,sidney,KSDY
+1640,roosevelt,montana,mt,wolf-point,KOLF
+1641,rosebud,montana,mt,forsyth,KMLS
+1642,sanders,montana,mt,thompson-falls,KCOE
+1643,sheridan,montana,mt,plentywood,KD50
+1644,silver bow,montana,mt,butte,KBTM
+1645,stillwater,montana,mt,columbus,KBIL
+1646,sweet grass,montana,mt,big-timber,KLVM
+1647,teton,montana,mt,,
+1648,toole,montana,mt,shelby,KCTB
+1649,treasure,montana,mt,hysham,KBIL
+1650,valley,montana,mt,glasgow,KGGW
+1651,wheatland,montana,mt,harlowton,KLWT
+1652,wibaux,montana,mt,wibaux,K20U
+1653,yellowstone,montana,mt,billings,KBIL
+1654,adams,nebraska,ne,hastings,KHSI
+1655,antelope,nebraska,ne,neligh,KBVN
+1656,arthur,nebraska,ne,arthur,KOGA
+1657,banner,nebraska,ne,harrisburg,KBFF
+1658,blaine,nebraska,ne,brewster,KBBW
+1659,boone,nebraska,ne,albion,KBVN
+1660,box butte,nebraska,ne,alliance,KAIA
+1661,boyd,nebraska,ne,butte,KONL
+1662,brown,nebraska,ne,ainsworth,KANW
+1663,buffalo,nebraska,ne,kearney,KEAR
+1664,burt,nebraska,ne,tekamah,KTQE
+1665,butler,nebraska,ne,david-city,KOLU
+1666,cass,nebraska,ne,plattsmouth,KPMV
+1667,cedar,nebraska,ne,hartington,KYKN
+1668,chase,nebraska,ne,imperial,KIML
+1669,cherry,nebraska,ne,valentine,KVTN
+1670,cheyenne,nebraska,ne,sidney,KSNY
+1671,clay,nebraska,ne,clay-center,KHSI
+1672,colfax,nebraska,ne,schuyler,KOLU
+1673,cuming,nebraska,ne,west-point,KTQE
+1674,custer,nebraska,ne,broken-bow,KBBW
+1675,dakota,nebraska,ne,dakota-city,KSUX
+1676,dawes,nebraska,ne,chadron,KCDR
+1677,dawson,nebraska,ne,lexington,KLXN
+1678,deuel,nebraska,ne,chappell,KSNY
+1679,dixon,nebraska,ne,ponca,KSUX
+1680,dodge,nebraska,ne,fremont,KFET
+1681,douglas,nebraska,ne,omaha,KOMA
+1682,dundy,nebraska,ne,benkelman,KSYF
+1683,fillmore,nebraska,ne,geneva,KJYR
+1684,franklin,nebraska,ne,franklin,KHDE
+1685,frontier,nebraska,ne,stockville,KMCK
+1686,furnas,nebraska,ne,beaver-city,KHDE
+1687,gage,nebraska,ne,beatrice,KBIE
+1688,garden,nebraska,ne,oshkosh,KOGA
+1689,garfield,nebraska,ne,burwell,KODX
+1690,gosper,nebraska,ne,elwood,KLXN
+1691,grant,nebraska,ne,hyannis,KAIA
+1692,greeley,nebraska,ne,greeley,KODX
+1693,hall,nebraska,ne,grand-island,KGRI
+1694,hamilton,nebraska,ne,aurora,KAUH
+1695,harlan,nebraska,ne,alma,KHDE
+1696,hayes,nebraska,ne,hayes-center,KMCK
+1697,hitchcock,nebraska,ne,trenton,KMCK
+1698,holt,nebraska,ne,o'neill,CYSP
+1699,hooker,nebraska,ne,mullen,KTIF
+1700,howard,nebraska,ne,st.-paul,KGRI
+1701,jefferson,nebraska,ne,fairbury,KHJH
+1702,johnson,nebraska,ne,tecumseh,KAFK
+1703,kearney,nebraska,ne,minden,KEAR
+1704,keith,nebraska,ne,ogallala,KOGA
+1705,keya paha,nebraska,ne,springview,KANW
+1706,kimball,nebraska,ne,kimball,KIBM
+1707,knox,nebraska,ne,center,KYKN
+1708,lancaster,nebraska,ne,lincoln,KLNK
+1709,lincoln,nebraska,ne,north-platte,KLBF
+1710,logan,nebraska,ne,stapleton,KLBF
+1711,loup,nebraska,ne,taylor,KODX
+1712,mcpherson,nebraska,ne,tryon,KLBF
+1713,madison,nebraska,ne,madison,KOFK
+1714,merrick,nebraska,ne,central-city,KAUH
+1715,morrill,nebraska,ne,bridgeport,KBFF
+1716,nance,nebraska,ne,fullerton,KBVN
+1717,nemaha,nebraska,ne,auburn,KAFK
+1718,nuckolls,nebraska,ne,nelson,KHJH
+1719,otoe,nebraska,ne,nebraska-city,KAFK
+1720,pawnee,nebraska,ne,pawnee-city,KFNB
+1721,perkins,nebraska,ne,grant,KOGA
+1722,phelps,nebraska,ne,holdrege,KHDE
+1723,pierce,nebraska,ne,pierce,KOFK
+1724,platte,nebraska,ne,columbus,KOLU
+1725,polk,nebraska,ne,osceola,KJYR
+1726,red willow,nebraska,ne,mccook,KMCK
+1727,richardson,nebraska,ne,falls-city,KFNB
+1728,rock,nebraska,ne,bassett,KANW
+1729,saline,nebraska,ne,wilber,KBIE
+1730,sarpy,nebraska,ne,papillion,KMLE
+1731,saunders,nebraska,ne,wahoo,KAHQ
+1732,scotts bluff,nebraska,ne,gering,KBFF
+1733,seward,nebraska,ne,seward,KLNK
+1734,sheridan,nebraska,ne,rushville,KIEN
+1735,sherman,nebraska,ne,loup-city,KODX
+1736,sioux,nebraska,ne,harrison,KCDR
+1737,stanton,nebraska,ne,stanton,KOFK
+1738,thayer,nebraska,ne,hebron,KHJH
+1739,thomas,nebraska,ne,thedford,KTIF
+1740,thurston,nebraska,ne,pender,KLCG
+1741,valley,nebraska,ne,ord,KODX
+1742,washington,nebraska,ne,blair,KBTA
+1743,wayne,nebraska,ne,wayne,KLCG
+1744,webster,nebraska,ne,red-cloud,KHSI
+1745,wheeler,nebraska,ne,bartlett,KBVN
+1746,york,nebraska,ne,york,KJYR
+1747,churchill,nevada,nv,fallon,KNFL
+1748,clark,nevada,nv,,
+1749,douglas,nevada,nv,minden,KTVL
+1750,elko,nevada,nv,elko,KEKO
+1751,esmeralda,nevada,nv,goldfield,KTPH
+1752,eureka,nevada,nv,eureka,K05U
+1753,humboldt,nevada,nv,winnemucca,KWMC
+1754,lander,nevada,nv,battle-mountain,KWMC
+1755,lincoln,nevada,nv,pioche,KCDC
+1756,lyon,nevada,nv,yerington,KCXP
+1757,mineral,nevada,nv,hawthorne,KNFL
+1758,nye,nevada,nv,tonopah,KTPH
+1759,pershing,nevada,nv,lovelock,KLOL
+1760,storey,nevada,nv,virginia-city,KCXP
+1761,washoe,nevada,nv,reno,KRNO
+1762,white pine,nevada,nv,ely,K05U
+1763,consolidated municipality of carson city,nevada,nv,,
+1764,belknap,new hampshire,nh,laconia,KLCI
+1765,carroll,new hampshire,nh,ossipee,KLCI
+1766,cheshire,new hampshire,nh,keene,KEEN
+1767,coos,new hampshire,nh,lancaster,KHIE
+1768,grafton,new hampshire,nh,haverhill,K1P1
+1769,hillsborough,new hampshire,nh,manchester,KMHT
+1770,merrimack,new hampshire,nh,concord,KCON
+1771,rockingham,new hampshire,nh,brentwood,KPSM
+1772,strafford,new hampshire,nh,dover,KDAW
+1773,sullivan,new hampshire,nh,newport,KVSF
+1774,atlantic,new jersey,nj,mays-landing,KACY
+1775,bergen,new jersey,nj,hackensack,KTEB
+1776,burlington,new jersey,nj,mount-holly-township,TBPB
+1777,camden,new jersey,nj,camden,KPHL
+1778,cape may,new jersey,nj,cape-may-court-house,KWWD
+1779,cumberland,new jersey,nj,bridgeton,KMIV
+1780,essex,new jersey,nj,newark,KEWR
+1781,gloucester,new jersey,nj,woodbury,KPHL
+1782,hudson,new jersey,nj,jersey-city,KJRB
+1783,hunterdon,new jersey,nj,flemington,KTTN
+1784,mercer,new jersey,nj,trenton,KTTN
+1785,middlesex,new jersey,nj,new-brunswick,KLDJ
+1786,monmouth,new jersey,nj,freehold-borough,KBLM
+1787,morris,new jersey,nj,morristown,KMMU
+1788,ocean,new jersey,nj,toms-river-township,ESKM
+1789,passaic,new jersey,nj,paterson,KCDW
+1790,salem,new jersey,nj,salem,KILG
+1791,somerset,new jersey,nj,somerville,KMMU
+1792,sussex,new jersey,nj,newton,KFWN
+1793,union,new jersey,nj,elizabeth,KEWR
+1794,warren,new jersey,nj,belvidere,KABE
+1795,bernalillo,new mexico,nm,albuquerque,KABQ
+1796,catron,new mexico,nm,reserve,KSJN
+1797,chaves,new mexico,nm,roswell,KROW
+1798,cibola,new mexico,nm,grants,KGNT
+1799,colfax,new mexico,nm,raton,
+1800,curry,new mexico,nm,clovis,
+1801,de baca,new mexico,nm,fort-sumner,K4MR
+1802,dona ana,new mexico,nm,las-cruces,KLRU
+1803,eddy,new mexico,nm,carlsbad,
+1804,grant,new mexico,nm,silver-city,KSVC
+1805,guadalupe,new mexico,nm,santa-rosa,KTCC
+1806,harding,new mexico,nm,mosquero,KTCC
+1807,hidalgo,new mexico,nm,lordsburg,KSVC
+1808,lea,new mexico,nm,lovington,KHOB
+1809,lincoln,new mexico,nm,carrizozo,KSRR
+1810,municipality and of los alamos,new mexico,nm,los-alamos,KLAM
+1811,luna,new mexico,nm,deming,KDMN
+1812,mckinley,new mexico,nm,gallup,KGUP
+1813,mora,new mexico,nm,mora,
+1814,otero,new mexico,nm,alamogordo,KALM
+1815,quay,new mexico,nm,tucumcari,KTCC
+1816,rio arriba,new mexico,nm,tierra-amarilla,KPSO
+1817,roosevelt,new mexico,nm,portales,
+1818,sandoval,new mexico,nm,bernalillo,KAEG
+1819,san juan,new mexico,nm,aztec,KFMN
+1820,san miguel,new mexico,nm,las-vegas,
+1821,santa fe,new mexico,nm,santa-fe,KSAF
+1822,sierra,new mexico,nm,truth-or-consequences,KTCS
+1823,socorro,new mexico,nm,socorro,KONM
+1824,taos,new mexico,nm,taos,KSKX
+1825,torrance,new mexico,nm,estancia,K0E0
+1826,union,new mexico,nm,clayton,KCAO
+1827,valencia,new mexico,nm,los-lunas,KE80
+1828,albany,new york,ny,albany,KALB
+1829,allegany,new york,ny,belmont,KELZ
+1830,bronx,new york,ny,,
+1831,broome,new york,ny,binghamton,KBGM
+1832,cattaraugus,new york,ny,little-valley,KOLE
+1833,cayuga,new york,ny,auburn,KSYR
+1834,chautauqua,new york,ny,mayville,KJHW
+1835,chemung,new york,ny,elmira,KELM
+1836,chenango,new york,ny,norwich,KBGM
+1837,clinton,new york,ny,plattsburgh,KPBG
+1838,columbia,new york,ny,hudson,KPSF
+1839,cortland,new york,ny,cortland,KN03
+1840,delaware,new york,ny,delhi,KMSV
+1841,dutchess,new york,ny,,
+1842,erie,new york,ny,buffalo,KBUF
+1843,essex,new york,ny,elizabethtown,KBTV
+1844,franklin,new york,ny,malone,KMSS
+1845,fulton,new york,ny,johnstown,KSCH
+1846,genesee,new york,ny,batavia,KROC
+1847,greene,new york,ny,catskill,KPSF
+1848,hamilton,new york,ny,lake-pleasant,KGFL
+1849,herkimer,new york,ny,herkimer,KRME
+1850,jefferson,new york,ny,watertown,KART
+1851,kings,new york,ny,,
+1852,lewis,new york,ny,,
+1853,livingston,new york,ny,geneseo,KDSV
+1854,madison,new york,ny,wampsville,KRME
+1855,monroe,new york,ny,rochester,KROC
+1856,montgomery,new york,ny,fonda,KSCH
+1857,nassau,new york,ny,mineola,KJFK
+1858,new york,new york,ny,,
+1859,niagara,new york,ny,lockport,
+1860,oneida,new york,ny,utica,KRME
+1861,onondaga,new york,ny,syracuse,KSYR
+1862,ontario,new york,ny,canandaigua,KPEO
+1863,orange,new york,ny,goshen,KMGJ
+1864,orleans,new york,ny,albion,KROC
+1865,oswego,new york,ny,oswego,KFZY
+1866,otsego,new york,ny,cooperstown,KRME
+1867,putnam,new york,ny,carmel,KDXR
+1868,queens,new york,ny,,
+1869,rensselaer,new york,ny,troy,KALB
+1870,richmond,new york,ny,,
+1871,rockland,new york,ny,new-city,KHPN
+1872,st. lawrence,new york,ny,canton,KOGS
+1873,saratoga,new york,ny,ballston-spa,KSCH
+1874,schenectady,new york,ny,,
+1875,schoharie,new york,ny,schoharie,KSCH
+1876,schuyler,new york,ny,watkins-glen,KELM
+1877,seneca,new york,ny,waterloo,KPEO
+1878,steuben,new york,ny,bath,KPEO
+1879,suffolk,new york,ny,riverhead,
+1880,sullivan,new york,ny,monticello,KMSV
+1881,tioga,new york,ny,owego,KBGM
+1882,tompkins,new york,ny,ithaca,KITH
+1883,ulster,new york,ny,kingston,KPOU
+1884,warren,new york,ny,queensbury,KGFL
+1885,washington,new york,ny,fort-edward,KGFL
+1886,wayne,new york,ny,lyons,KPEO
+1887,westchester,new york,ny,,
+1888,wyoming,new york,ny,warsaw,KDSV
+1889,yates,new york,ny,penn-yan,KPEO
+1890,alamance,north carolina,nc,graham,KBUY
+1891,alexander,north carolina,nc,taylorsville,KSVH
+1892,alleghany,north carolina,nc,sparta,KGEV
+1893,anson,north carolina,nc,wadesboro,KAFP
+1894,ashe,north carolina,nc,jefferson,KGEV
+1895,avery,north carolina,nc,newland,KTNB
+1896,beaufort,north carolina,nc,washington,KOCW
+1897,bertie,north carolina,nc,windsor,KEDE
+1898,bladen,north carolina,nc,elizabethtown,KLBT
+1899,brunswick,north carolina,nc,bolivia,KSUT
+1900,buncombe,north carolina,nc,asheville,KAVL
+1901,burke,north carolina,nc,morganton,KMRN
+1902,cabarrus,north carolina,nc,concord,KJQF
+1903,caldwell,north carolina,nc,,
+1904,camden,north carolina,nc,camden,
+1905,carteret,north carolina,nc,beaufort,KMRH
+1906,caswell,north carolina,nc,yanceyville,KDAN
+1907,catawba,north carolina,nc,newton,KHKY
+1908,chatham,north carolina,nc,pittsboro,KTTA
+1909,cherokee,north carolina,nc,murphy,KRHP
+1910,chowan,north carolina,nc,edenton,KEDE
+1911,clay,north carolina,nc,hayesville,KRHP
+1912,cleveland,north carolina,nc,shelby,KEHO
+1913,columbus,north carolina,nc,whiteville,KCPC
+1914,craven,north carolina,nc,new-bern,KEWN
+1915,cumberland,north carolina,nc,fayetteville,KFAY
+1916,currituck,north carolina,nc,currituck,KONX
+1917,dare,north carolina,nc,,
+1918,davidson,north carolina,nc,lexington,KEXX
+1919,davie,north carolina,nc,mocksville,KEXX
+1920,duplin,north carolina,nc,kenansville,KDPL
+1921,durham,north carolina,nc,durham,KRDU
+1922,edgecombe,north carolina,nc,tarboro,KRWI
+1923,forsyth,north carolina,nc,winston-salem,KINT
+1924,franklin,north carolina,nc,louisburg,KLHZ
+1925,gaston,north carolina,nc,gastonia,KAKH
+1926,gates,north carolina,nc,gatesville,KSFQ
+1927,graham,north carolina,nc,robbinsville,KRHP
+1928,granville,north carolina,nc,oxford,KHNZ
+1929,greene,north carolina,nc,snow-hill,KISO
+1930,guilford,north carolina,nc,greensboro,KGSO
+1931,halifax,north carolina,nc,halifax,KIXA
+1932,harnett,north carolina,nc,lillington,KHRJ
+1933,haywood,north carolina,nc,waynesville,KAVL
+1934,henderson,north carolina,nc,hendersonville,KAVL
+1935,hertford,north carolina,nc,winton,KASJ
+1936,hoke,north carolina,nc,raeford,KMEB
+1937,hyde,north carolina,nc,swan-quarter,
+1938,iredell,north carolina,nc,statesville,KSVH
+1939,jackson,north carolina,nc,sylva,K1A5
+1940,johnston,north carolina,nc,smithfield,KJNX
+1941,jones,north carolina,nc,trenton,KEWN
+1942,lee,north carolina,nc,sanford,KTTA
+1943,lenoir,north carolina,nc,kinston,KISO
+1944,lincoln,north carolina,nc,,
+1945,mcdowell,north carolina,nc,marion,KFQD
+1946,macon,north carolina,nc,franklin,K1A5
+1947,madison,north carolina,nc,marshall,KAVL
+1948,martin,north carolina,nc,williamston,KOCW
+1949,mecklenburg,north carolina,nc,charlotte,KCLT
+1950,mitchell,north carolina,nc,bakersville,
+1951,montgomery,north carolina,nc,troy,KVUJ
+1952,moore,north carolina,nc,carthage,KSOP
+1953,nash,north carolina,nc,nashville,KRWI
+1954,new hanover,north carolina,nc,wilmington,KILM
+1955,northampton,north carolina,nc,jackson,KIXA
+1956,onslow,north carolina,nc,jacksonville,KNCA
+1957,orange,north carolina,nc,hillsborough,KIGX
+1958,pamlico,north carolina,nc,bayboro,KEWN
+1959,pasquotank,north carolina,nc,elizabeth-city,
+1960,pender,north carolina,nc,burgaw,KILM
+1961,perquimans,north carolina,nc,hertford,KEDE
+1962,person,north carolina,nc,,
+1963,pitt,north carolina,nc,greenville,KPGV
+1964,polk,north carolina,nc,columbus,KFQD
+1965,randolph,north carolina,nc,asheboro,KHBI
+1966,richmond,north carolina,nc,rockingham,KRCZ
+1967,robeson,north carolina,nc,,
+1968,rockingham,north carolina,nc,wentworth,KSIF
+1969,rowan,north carolina,nc,salisbury,KRUQ
+1970,rutherford,north carolina,nc,rutherfordton,KFQD
+1971,sampson,north carolina,nc,clinton,KCTZ
+1972,scotland,north carolina,nc,laurinburg,KMEB
+1973,stanly,north carolina,nc,albemarle,KVUJ
+1974,stokes,north carolina,nc,danbury,KMTV
+1975,surry,north carolina,nc,dobson,KMWK
+1976,swain,north carolina,nc,bryson-city,K1A5
+1977,transylvania,north carolina,nc,brevard,KAVL
+1978,tyrrell,north carolina,nc,columbia,KEDE
+1979,union,north carolina,nc,monroe,KEQY
+1980,vance,north carolina,nc,henderson,KHNZ
+1981,wake,north carolina,nc,raleigh,KRDU
+1982,warren,north carolina,nc,warrenton,KHNZ
+1983,washington,north carolina,nc,plymouth,KEDE
+1984,watauga,north carolina,nc,boone,KTNB
+1985,wayne,north carolina,nc,goldsboro,KGSB
+1986,wilkes,north carolina,nc,wilkesboro,KUKF
+1987,wilson,north carolina,nc,wilson,KRWI
+1988,yadkin,north carolina,nc,yadkinville,KMWK
+1989,yancey,north carolina,nc,burnsville,K0A9
+1990,adams,north dakota,nd,hettinger,KHEI
+1991,barnes,north dakota,nd,valley-city,KBAC
+1992,benson,north dakota,nd,minnewaukan,KDVL
+1993,billings,north dakota,nd,medora,K20U
+1994,bottineau,north dakota,nd,bottineau,KRUG
+1995,bowman,north dakota,nd,bowman,KHEI
+1996,burke,north dakota,nd,bowbells,K08D
+1997,burleigh,north dakota,nd,bismarck,KBIS
+1998,cass,north dakota,nd,fargo,KFAR
+1999,cavalier,north dakota,nd,langdon,KD55
+2000,dickey,north dakota,nd,ellendale,KABR
+2001,divide,north dakota,nd,crosby,KD50
+2002,dunn,north dakota,nd,manning,KDIK
+2003,eddy,north dakota,nd,new-rockford,K46D
+2004,emmons,north dakota,nd,linton,K7L2
+2005,foster,north dakota,nd,carrington,K46D
+2006,golden valley,north dakota,nd,beach,K20U
+2007,grand forks,north dakota,nd,grand-forks,
+2008,grant,north dakota,nd,carson,KD57
+2009,griggs,north dakota,nd,cooperstown,KS32
+2010,hettinger,north dakota,nd,mott,KHEI
+2011,kidder,north dakota,nd,steele,KBIS
+2012,lamoure,north dakota,nd,lamoure,KGWR
+2013,logan,north dakota,nd,napoleon,K7L2
+2014,mchenry,north dakota,nd,towner,KRUG
+2015,mcintosh,north dakota,nd,ashley,K7L2
+2016,mckenzie,north dakota,nd,watford-city,KS25
+2017,mclean,north dakota,nd,washburn,KHZE
+2018,mercer,north dakota,nd,stanton,KHZE
+2019,morton,north dakota,nd,mandan,KY19
+2020,mountrail,north dakota,nd,stanley,K08D
+2021,nelson,north dakota,nd,lakota,KDVL
+2022,oliver,north dakota,nd,center,KHZE
+2023,pembina,north dakota,nd,cavalier,K2C8
+2024,pierce,north dakota,nd,rugby,KRUG
+2025,ramsey,north dakota,nd,devils-lake,KDVL
+2026,ransom,north dakota,nd,lisbon,KGWR
+2027,renville,north dakota,nd,mohall,KMIB
+2028,richland,north dakota,nd,wahpeton,KBWP
+2029,rolette,north dakota,nd,rolla,K06D
+2030,sargent,north dakota,nd,forman,KGWR
+2031,sheridan,north dakota,nd,mcclusky,K5H4
+2032,sioux,north dakota,nd,fort-yates,K7L2
+2033,slope,north dakota,nd,amidon,KDIK
+2034,stark,north dakota,nd,dickinson,KD57
+2035,steele,north dakota,nd,finley,KS32
+2036,stutsman,north dakota,nd,jamestown,KJMS
+2037,towner,north dakota,nd,cando,K9D7
+2038,traill,north dakota,nd,hillsboro,
+2039,walsh,north dakota,nd,grafton,KGAF
+2040,ward,north dakota,nd,minot,KMOT
+2041,wells,north dakota,nd,fessenden,K5H4
+2042,williams,north dakota,nd,williston,KISN
+2043,adams,ohio,oh,west-union,KI69
+2044,allen,ohio,oh,lima,KAOH
+2045,ashland,ohio,oh,ashland,KMFD
+2046,ashtabula,ohio,oh,jefferson,KHZY
+2047,athens,ohio,oh,athens,KUNI
+2048,auglaize,ohio,oh,wapakoneta,KAOH
+2049,belmont,ohio,oh,st.-clairsville,KHLG
+2050,brown,ohio,oh,georgetown,KI69
+2051,butler,ohio,oh,hamilton,KHAO
+2052,carroll,ohio,oh,carrollton,KPHD
+2053,champaign,ohio,oh,urbana,KEDJ
+2054,clark,ohio,oh,springfield,KSGH
+2055,clermont,ohio,oh,batavia,KI69
+2056,clinton,ohio,oh,wilmington,KILN
+2057,columbiana,ohio,oh,lisbon,KBVI
+2058,coshocton,ohio,oh,coshocton,KZZV
+2059,crawford,ohio,oh,bucyrus,KMNN
+2060,cuyahoga,ohio,oh,cleveland,KBKL
+2061,darke,ohio,oh,greenville,KVES
+2062,defiance,ohio,oh,defiance,KDFI
+2063,delaware,ohio,oh,delaware,KDLZ
+2064,erie,ohio,oh,sandusky,KLPR
+2065,fairfield,ohio,oh,lancaster,KLHQ
+2066,fayette,ohio,oh,washington-court-house,KILN
+2067,franklin,ohio,oh,columbus,KOSU
+2068,fulton,ohio,oh,wauseon,KUSE
+2069,gallia,ohio,oh,gallipolis,K3I2
+2070,geauga,ohio,oh,chardon,KCGF
+2071,greene,ohio,oh,xenia,KFFO
+2072,guernsey,ohio,oh,cambridge,KZZV
+2073,hamilton,ohio,oh,cincinnati,KLUK
+2074,hancock,ohio,oh,findlay,KFDY
+2075,hardin,ohio,oh,kenton,KEDJ
+2076,harrison,ohio,oh,cadiz,
+2077,henry,ohio,oh,napoleon,KUSE
+2078,highland,ohio,oh,hillsboro,KILN
+2079,hocking,ohio,oh,logan,KLHQ
+2080,holmes,ohio,oh,millersburg,KBJJ
+2081,huron,ohio,oh,norwalk,KLPR
+2082,jackson,ohio,oh,jackson,KUNI
+2083,jefferson,ohio,oh,steubenville,KHLG
+2084,knox,ohio,oh,mount-vernon,K4I3
+2085,lake,ohio,oh,painesville,KCGF
+2086,lawrence,ohio,oh,ironton,KHTS
+2087,licking,ohio,oh,newark,KVTA
+2088,logan,ohio,oh,bellefontaine,KEDJ
+2089,lorain,ohio,oh,elyria,KLPR
+2090,lucas,ohio,oh,toledo,KTDZ
+2091,madison,ohio,oh,london,KTZR
+2092,mahoning,ohio,oh,youngstown,KYNG
+2093,marion,ohio,oh,marion,KMNN
+2094,medina,ohio,oh,medina,KCLE
+2095,meigs,ohio,oh,pomeroy,K3I2
+2096,mercer,ohio,oh,celina,KVES
+2097,miami,ohio,oh,troy,KDAY
+2098,monroe,ohio,oh,woodsfield,KPKB
+2099,montgomery,ohio,oh,dayton,KFFO
+2100,morgan,ohio,oh,mcconnelsville,KZZV
+2101,morrow,ohio,oh,mount-gilead,KMNN
+2102,muskingum,ohio,oh,zanesville,KZZV
+2103,noble,ohio,oh,caldwell,KZZV
+2104,ottawa,ohio,oh,port-clinton,KTDZ
+2105,paulding,ohio,oh,paulding,KDFI
+2106,perry,ohio,oh,new-lexington,KZZV
+2107,pickaway,ohio,oh,circleville,KLCK
+2108,pike,ohio,oh,waverly,KUNI
+2109,portage,ohio,oh,ravenna,KPOV
+2110,preble,ohio,oh,eaton,KMGY
+2111,putnam,ohio,oh,ottawa,KFDY
+2112,richland,ohio,oh,mansfield,KMFD
+2113,ross,ohio,oh,chillicothe,KLCK
+2114,sandusky,ohio,oh,fremont,KTDZ
+2115,scioto,ohio,oh,,
+2116,seneca,ohio,oh,tiffin,KFDY
+2117,shelby,ohio,oh,sidney,KEDJ
+2118,stark,ohio,oh,canton,KCAK
+2119,summit,ohio,oh,akron,KAKR
+2120,trumbull,ohio,oh,warren,KYNG
+2121,tuscarawas,ohio,oh,new-philadelphia,KPHD
+2122,union,ohio,oh,marysville,KMRT
+2123,van wert,ohio,oh,van-wert,KAOH
+2124,vinton,ohio,oh,mcarthur,KUNI
+2125,warren,ohio,oh,lebanon,KMGY
+2126,washington,ohio,oh,marietta,KPKB
+2127,wayne,ohio,oh,wooster,KBJJ
+2128,williams,ohio,oh,bryan,KDFI
+2129,wood,ohio,oh,bowling-green,KTDZ
+2130,wyandot,ohio,oh,upper-sandusky,KMNN
+2131,adair,oklahoma,ok,stilwell,KTQH
+2132,alfalfa,oklahoma,ok,cherokee,KAVK
+2133,atoka,oklahoma,ok,atoka,KAQR
+2134,beaver,oklahoma,ok,beaver,
+2135,beckham,oklahoma,ok,sayre,
+2136,blaine,oklahoma,ok,watonga,KJWG
+2137,bryan,oklahoma,ok,durant,KGYI
+2138,caddo,oklahoma,ok,anadarko,KCHK
+2139,canadian,oklahoma,ok,el-reno,KRQO
+2140,carter,oklahoma,ok,ardmore,K1F0
+2141,cherokee,oklahoma,ok,tahlequah,KTQH
+2142,choctaw,oklahoma,ok,hugo,KHHW
+2143,cimarron,oklahoma,ok,boise-city,KCAO
+2144,cleveland,oklahoma,ok,norman,KOUN
+2145,coal,oklahoma,ok,coalgate,KAQR
+2146,comanche,oklahoma,ok,lawton,
+2147,cotton,oklahoma,ok,walters,
+2148,craig,oklahoma,ok,vinita,KGMJ
+2149,creek,oklahoma,ok,sapulpa,KRVS
+2150,custer,oklahoma,ok,,
+2151,delaware,oklahoma,ok,jay,KGMJ
+2152,dewey,oklahoma,ok,taloga,KJWG
+2153,ellis,oklahoma,ok,arnett,
+2154,garfield,oklahoma,ok,enid,KWDG
+2155,garvin,oklahoma,ok,pauls-valley,KPVJ
+2156,grady,oklahoma,ok,chickasha,KCHK
+2157,grant,oklahoma,ok,medford,KBKN
+2158,greer,oklahoma,ok,mangum,KAXS
+2159,harmon,oklahoma,ok,hollis,KCDS
+2160,harper,oklahoma,ok,buffalo,KWWR
+2161,haskell,oklahoma,ok,stigler,KGZL
+2162,hughes,oklahoma,ok,holdenville,KADH
+2163,jackson,oklahoma,ok,altus,KLTS
+2164,jefferson,oklahoma,ok,waurika,KDUC
+2165,johnston,oklahoma,ok,tishomingo,KADM
+2166,kay,oklahoma,ok,newkirk,
+2167,kingfisher,oklahoma,ok,kingfisher,KRQO
+2168,kiowa,oklahoma,ok,hobart,KHBR
+2169,latimer,oklahoma,ok,wilburton,KMLC
+2170,le flore,oklahoma,ok,poteau,KRKR
+2171,lincoln,oklahoma,ok,chandler,KCQB
+2172,logan,oklahoma,ok,guthrie,KGOK
+2173,love,oklahoma,ok,marietta,K1F0
+2174,mcclain,oklahoma,ok,purcell,KOUN
+2175,mccurtain,oklahoma,ok,idabel,K4O4
+2176,mcintosh,oklahoma,ok,eufaula,KGZL
+2177,major,oklahoma,ok,fairview,KJWG
+2178,marshall,oklahoma,ok,madill,KADM
+2179,mayes,oklahoma,ok,pryor-creek,KBIL
+2180,murray,oklahoma,ok,sulphur,KADM
+2181,muskogee,oklahoma,ok,muskogee,KMKO
+2182,noble,oklahoma,ok,perry,KSWO
+2183,nowata,oklahoma,ok,nowata,KBVO
+2184,okfuskee,oklahoma,ok,okemah,KOKM
+2185,oklahoma,oklahoma,ok,oklahoma-city,KOKC
+2186,okmulgee,oklahoma,ok,okmulgee,KOKM
+2187,osage,oklahoma,ok,pawhuska,KBVO
+2188,ottawa,oklahoma,ok,miami,KGMJ
+2189,pawnee,oklahoma,ok,pawnee,KSWO
+2190,payne,oklahoma,ok,stillwater,KSWO
+2191,pittsburg,oklahoma,ok,,
+2192,pontotoc,oklahoma,ok,ada,KADH
+2193,pottawatomie,oklahoma,ok,shawnee,KSNL
+2194,pushmataha,oklahoma,ok,antlers,KHHW
+2195,roger mills,oklahoma,ok,cheyenne,
+2196,rogers,oklahoma,ok,claremore,KGCM
+2197,seminole,oklahoma,ok,wewoka,KADH
+2198,sequoyah,oklahoma,ok,sallisaw,KJSV
+2199,stephens,oklahoma,ok,duncan,KDUC
+2200,texas,oklahoma,ok,guymon,KGUY
+2201,tillman,oklahoma,ok,frederick,
+2202,tulsa,oklahoma,ok,tulsa,KTUL
+2203,wagoner,oklahoma,ok,wagoner,KMKO
+2204,washington,oklahoma,ok,bartlesville,KBVO
+2205,washita,oklahoma,ok,new-cordell,KNEW
+2206,woods,oklahoma,ok,alva,KAVK
+2207,woodward,oklahoma,ok,woodward,KWWR
+2208,baker,oregon,or,baker-city,KBKE
+2209,benton,oregon,or,corvallis,KCVO
+2210,clackamas,oregon,or,oregon-city,KUAO
+2211,clatsop,oregon,or,astoria,KAST
+2212,columbia,oregon,or,st.-helens,KSPB
+2213,coos,oregon,or,coquille,KOTH
+2214,crook,oregon,or,prineville,KRDM
+2215,curry,oregon,or,,
+2216,deschutes,oregon,or,bend,KBDN
+2217,douglas,oregon,or,roseburg,KRBG
+2218,gilliam,oregon,or,condon,KPDT
+2219,grant,oregon,or,,
+2220,harney,oregon,or,burns,KBNO
+2221,hood river,oregon,or,,
+2222,jackson,oregon,or,medford,KMFR
+2223,jefferson,oregon,or,madras,KRDM
+2224,josephine,oregon,or,grants-pass,KMFR
+2225,klamath,oregon,or,,
+2226,lake,oregon,or,lakeview,KLKV
+2227,lane,oregon,or,eugene,KEUG
+2228,lincoln,oregon,or,newport,KONP
+2229,linn,oregon,or,albany,KCVO
+2230,malheur,oregon,or,vale,KONO
+2231,marion,oregon,or,salem,KSLE
+2232,morrow,oregon,or,heppner,KHRI
+2233,multnomah,oregon,or,portland,KPDX
+2234,polk,oregon,or,dallas,KSLE
+2235,sherman,oregon,or,moro,KDLS
+2236,tillamook,oregon,or,,
+2237,umatilla,oregon,or,pendleton,KPDT
+2238,union,oregon,or,la-grande,KLGD
+2239,wallowa,oregon,or,enterprise,KLGD
+2240,wasco,oregon,or,the-dalles,KDLS
+2241,washington,oregon,or,hillsboro,KHIO
+2242,wheeler,oregon,or,fossil,KRDM
+2243,yamhill,oregon,or,mcminnville,KMMV
+2244,adams,pennsylvania,pa,gettysburg,KRYT
+2245,allegheny,pennsylvania,pa,pittsburgh,KAGC
+2246,armstrong,pennsylvania,pa,kittanning,KBTP
+2247,beaver,pennsylvania,pa,beaver,KBVI
+2248,bedford,pennsylvania,pa,bedford,KHMZ
+2249,berks,pennsylvania,pa,reading,KRDG
+2250,blair,pennsylvania,pa,hollidaysburg,KAOO
+2251,bradford,pennsylvania,pa,towanda,KELM
+2252,bucks,pennsylvania,pa,doylestown,KDYL
+2253,butler,pennsylvania,pa,butler,KBTP
+2254,cambria,pennsylvania,pa,ebensburg,KJST
+2255,cameron,pennsylvania,pa,emporium,KBFD
+2256,carbon,pennsylvania,pa,jim-thorpe,KABE
+2257,centre,pennsylvania,pa,bellefonte,KUNV
+2258,chester,pennsylvania,pa,west-chester,KMQS
+2259,clarion,pennsylvania,pa,clarion,KDUJ
+2260,clearfield,pennsylvania,pa,clearfield,KFIG
+2261,clinton,pennsylvania,pa,lock-haven,KIPT
+2262,columbia,pennsylvania,pa,bloomsburg,KSEG
+2263,crawford,pennsylvania,pa,meadville,KGKJ
+2264,cumberland,pennsylvania,pa,carlisle,KCXY
+2265,dauphin,pennsylvania,pa,harrisburg,KCXY
+2266,delaware,pennsylvania,pa,media,KPHL
+2267,elk,pennsylvania,pa,ridgway,KDUJ
+2268,erie,pennsylvania,pa,erie,KERI
+2269,fayette,pennsylvania,pa,uniontown,KMGW
+2270,forest,pennsylvania,pa,tionesta,KFKL
+2271,franklin,pennsylvania,pa,chambersburg,KHGR
+2272,fulton,pennsylvania,pa,mcconnellsburg,KHGR
+2273,greene,pennsylvania,pa,waynesburg,KMGW
+2274,huntingdon,pennsylvania,pa,huntingdon,KAOO
+2275,indiana,pennsylvania,pa,indiana,KIDI
+2276,jefferson,pennsylvania,pa,brookville,KDUJ
+2277,juniata,pennsylvania,pa,mifflintown,KUNV
+2278,lackawanna,pennsylvania,pa,scranton,KAVP
+2279,lancaster,pennsylvania,pa,lancaster,KLNS
+2280,lawrence,pennsylvania,pa,new-castle,KUCP
+2281,lebanon,pennsylvania,pa,lebanon,KMUI
+2282,lehigh,pennsylvania,pa,allentown,KXLL
+2283,luzerne,pennsylvania,pa,wilkes-barre,KAVP
+2284,lycoming,pennsylvania,pa,williamsport,KIPT
+2285,mckean,pennsylvania,pa,smethport,KBFD
+2286,mercer,pennsylvania,pa,mercer,KUCP
+2287,mifflin,pennsylvania,pa,lewistown,KUNV
+2288,monroe,pennsylvania,pa,stroudsburg,KMPO
+2289,montgomery,pennsylvania,pa,norristown,KLOM
+2290,montour,pennsylvania,pa,danville,KSEG
+2291,northampton,pennsylvania,pa,easton,KABE
+2292,northumberland,pennsylvania,pa,sunbury,KSEG
+2293,perry,pennsylvania,pa,new-bloomfield,KCXY
+2294,philadelphia,pennsylvania,pa,,
+2295,pike,pennsylvania,pa,milford,KFWN
+2296,potter,pennsylvania,pa,coudersport,KELZ
+2297,schuylkill,pennsylvania,pa,pottsville,KRDG
+2298,snyder,pennsylvania,pa,middleburg,KSEG
+2299,somerset,pennsylvania,pa,somerset,KLBE
+2300,sullivan,pennsylvania,pa,laporte,KIPT
+2301,susquehanna,pennsylvania,pa,montrose,KBGM
+2302,tioga,pennsylvania,pa,wellsboro,KELM
+2303,union,pennsylvania,pa,lewisburg,KSEG
+2304,venango,pennsylvania,pa,franklin,KFKL
+2305,warren,pennsylvania,pa,warren,KJHW
+2306,washington,pennsylvania,pa,washington,KAGC
+2307,wayne,pennsylvania,pa,honesdale,KMSV
+2308,westmoreland,pennsylvania,pa,greensburg,KLBE
+2309,wyoming,pennsylvania,pa,tunkhannock,KAVP
+2310,york,pennsylvania,pa,york,KTHV
+2311,bristol,rhode island,ri,bristol,KPVD
+2312,kent,rhode island,ri,east-greenwich,KPVD
+2313,newport,rhode island,ri,,
+2314,providence,rhode island,ri,providence,KPVD
+2315,washington,rhode island,ri,south-kingstown,
+2316,abbeville,south carolina,sc,abbeville,KGRD
+2317,aiken,south carolina,sc,aiken,KAIK
+2318,allendale,south carolina,sc,allendale,KJYL
+2319,anderson,south carolina,sc,anderson,KAND
+2320,bamberg,south carolina,sc,bamberg,KOGB
+2321,barnwell,south carolina,sc,barnwell,KOGB
+2322,beaufort,south carolina,sc,beaufort,KARW
+2323,berkeley,south carolina,sc,,
+2324,calhoun,south carolina,sc,st.-matthews,KOGB
+2325,charleston,south carolina,sc,,
+2326,cherokee,south carolina,sc,gaffney,KEHO
+2327,chester,south carolina,sc,chester,KDCM
+2328,chesterfield,south carolina,sc,chesterfield,KCQW
+2329,clarendon,south carolina,sc,manning,KCKI
+2330,colleton,south carolina,sc,walterboro,KRBW
+2331,darlington,south carolina,sc,darlington,KUDG
+2332,dillon,south carolina,sc,dillon,KMAO
+2333,dorchester,south carolina,sc,st.-george,
+2334,edgefield,south carolina,sc,edgefield,KAIK
+2335,fairfield,south carolina,sc,winnsboro,KFDW
+2336,florence,south carolina,sc,florence,KFLO
+2337,georgetown,south carolina,sc,georgetown,KGGE
+2338,greenville,south carolina,sc,greenville,KGMU
+2339,greenwood,south carolina,sc,greenwood,KGRD
+2340,hampton,south carolina,sc,hampton,KRBW
+2341,horry,south carolina,sc,conway,KHYW
+2342,jasper,south carolina,sc,ridgeland,KNBC
+2343,kershaw,south carolina,sc,camden,KCDN
+2344,lancaster,south carolina,sc,lancaster,KEQY
+2345,laurens,south carolina,sc,laurens,KLUX
+2346,lee,south carolina,sc,bishopville,KHVS
+2347,lexington,south carolina,sc,lexington,KCAE
+2348,mccormick,south carolina,sc,mccormick,KGRD
+2349,marion,south carolina,sc,marion,KMAO
+2350,marlboro,south carolina,sc,bennettsville,KBBP
+2351,newberry,south carolina,sc,newberry,KEOE
+2352,oconee,south carolina,sc,walhalla,KCEU
+2353,orangeburg,south carolina,sc,orangeburg,KOGB
+2354,pickens,south carolina,sc,pickens,KLQK
+2355,richland,south carolina,sc,columbia,KCUB
+2356,saluda,south carolina,sc,saluda,KEOE
+2357,spartanburg,south carolina,sc,,
+2358,sumter,south carolina,sc,sumter,KSMS
+2359,union,south carolina,sc,,
+2360,williamsburg,south carolina,sc,kingstree,KCKI
+2361,york,south carolina,sc,york,KDCM
+2362,aurora,south dakota,sd,plankinton,KMHE
+2363,beadle,south dakota,sd,huron,KHON
+2364,bennett,south dakota,sd,martin,KIEN
+2365,bon homme,south dakota,sd,tyndall,KYKN
+2366,brookings,south dakota,sd,brookings,KBKX
+2367,brown,south dakota,sd,aberdeen,KABR
+2368,brule,south dakota,sd,chamberlain,K9V9
+2369,buffalo,south dakota,sd,gann-valley,K9V9
+2370,butte,south dakota,sd,belle-fourche,KSPF
+2371,campbell,south dakota,sd,mound-city,KMBG
+2372,charles mix,south dakota,sd,lake-andes,KONL
+2373,clark,south dakota,sd,clark,KATY
+2374,clay,south dakota,sd,vermillion,KYKN
+2375,codington,south dakota,sd,watertown,KATY
+2376,corson,south dakota,sd,mcintosh,KMBG
+2377,custer,south dakota,sd,,
+2378,davison,south dakota,sd,mitchell,KMHE
+2379,day,south dakota,sd,webster,KATY
+2380,deuel,south dakota,sd,clear-lake,KCNB
+2381,dewey,south dakota,sd,timber-lake,KMBG
+2382,douglas,south dakota,sd,armour,KMHE
+2383,edmunds,south dakota,sd,ipswich,KABR
+2384,fall river,south dakota,sd,hot-springs,KCDR
+2385,faulk,south dakota,sd,faulkton,KABR
+2386,grant,south dakota,sd,milbank,KVVV
+2387,gregory,south dakota,sd,burke,KICR
+2388,haakon,south dakota,sd,philip,KPHP
+2389,hamlin,south dakota,sd,hayti,KATY
+2390,hand,south dakota,sd,miller,KHON
+2391,hanson,south dakota,sd,alexandria,KMHE
+2392,harding,south dakota,sd,buffalo,KHEI
+2393,hughes,south dakota,sd,pierre,KPIR
+2394,hutchinson,south dakota,sd,olivet,KYKN
+2395,hyde,south dakota,sd,highmore,KPIR
+2396,jackson,south dakota,sd,kadoka,KPHP
+2397,jerauld,south dakota,sd,wessington-springs,KHON
+2398,jones,south dakota,sd,murdo,KPIR
+2399,kingsbury,south dakota,sd,de-smet,KHON
+2400,lake,south dakota,sd,madison,KMDS
+2401,lawrence,south dakota,sd,deadwood,KSPF
+2402,lincoln,south dakota,sd,canton,KFSD
+2403,lyman,south dakota,sd,kennebec,K9V9
+2404,mccook,south dakota,sd,salem,KMDS
+2405,mcpherson,south dakota,sd,leola,KABR
+2406,marshall,south dakota,sd,britton,KGWR
+2407,meade,south dakota,sd,sturgis,KSPF
+2408,mellette,south dakota,sd,white-river,KICR
+2409,miner,south dakota,sd,howard,KMDS
+2410,minnehaha,south dakota,sd,sioux-falls,KFSD
+2411,moody,south dakota,sd,flandreau,KPQN
+2412,oglala lakota,south dakota,sd,hot-springs,KCDR
+2413,pennington,south dakota,sd,rapid-city,KRAP
+2414,perkins,south dakota,sd,bison,KHEI
+2415,potter,south dakota,sd,gettysburg,KMBG
+2416,roberts,south dakota,sd,sisseton,KETH
+2417,sanborn,south dakota,sd,woonsocket,KMHE
+2418,spink,south dakota,sd,redfield,KHON
+2419,stanley,south dakota,sd,fort-pierre,KPIR
+2420,sully,south dakota,sd,onida,KPIR
+2421,todd,south dakota,sd,winner,KICR
+2422,tripp,south dakota,sd,winner,KICR
+2423,turner,south dakota,sd,parker,KFSD
+2424,union,south dakota,sd,elk-point,KSUX
+2425,walworth,south dakota,sd,selby,KMBG
+2426,yankton,south dakota,sd,yankton,KYKN
+2427,ziebach,south dakota,sd,dupree,KMBG
+2428,anderson,tennessee,tn,clinton,KOQT
+2429,bedford,tennessee,tn,shelbyville,KTHA
+2430,benton,tennessee,tn,camden,KCEY
+2431,bledsoe,tennessee,tn,pikeville,KCSV
+2432,blount,tennessee,tn,maryville,KTYS
+2433,bradley,tennessee,tn,cleveland,KRZR
+2434,campbell,tennessee,tn,jacksboro,KOQT
+2435,cannon,tennessee,tn,woodbury,KMQY
+2436,carroll,tennessee,tn,huntingdon,KMKL
+2437,carter,tennessee,tn,elizabethton,K0A9
+2438,cheatham,tennessee,tn,ashland-city,KBNA
+2439,chester,tennessee,tn,henderson,KMKL
+2440,claiborne,tennessee,tn,tazewell,K1A6
+2441,clay,tennessee,tn,celina,KSRB
+2442,cocke,tennessee,tn,newport,KTYS
+2443,coffee,tennessee,tn,manchester,KTHA
+2444,crockett,tennessee,tn,alamo,KMKL
+2445,cumberland,tennessee,tn,crossville,KCSV
+2446,davidson,tennessee,tn,nashville,KBNA
+2447,decatur,tennessee,tn,decaturville,KMKL
+2448,dekalb,tennessee,tn,smithville,KSRB
+2449,dickson,tennessee,tn,charlotte,KHOP
+2450,dyer,tennessee,tn,dyersburg,KDYR
+2451,fayette,tennessee,tn,somerville,KNQA
+2452,fentress,tennessee,tn,jamestown,KCSV
+2453,franklin,tennessee,tn,winchester,KBGF
+2454,gibson,tennessee,tn,trenton,KMKL
+2455,giles,tennessee,tn,pulaski,KMRC
+2456,grainger,tennessee,tn,rutledge,K1A6
+2457,greene,tennessee,tn,greeneville,KTRI
+2458,grundy,tennessee,tn,altamont,KBGF
+2459,hamblen,tennessee,tn,morristown,K0VG
+2460,hamilton,tennessee,tn,chattanooga,KCHA
+2461,hancock,tennessee,tn,sneedville,K0VG
+2462,hardeman,tennessee,tn,bolivar,KMKL
+2463,hardin,tennessee,tn,savannah,KMKL
+2464,hawkins,tennessee,tn,rogersville,K0VG
+2465,haywood,tennessee,tn,brownsville,KMKL
+2466,henderson,tennessee,tn,lexington,KMKL
+2467,henry,tennessee,tn,paris,KCEY
+2468,hickman,tennessee,tn,centerville,KMRC
+2469,houston,tennessee,tn,erin,KHOP
+2470,humphreys,tennessee,tn,waverly,KHOP
+2471,jackson,tennessee,tn,gainesboro,KSRB
+2472,jefferson,tennessee,tn,dandridge,KTYS
+2473,johnson,tennessee,tn,mountain-city,KTNB
+2474,knox,tennessee,tn,knoxville,KTYS
+2475,lake,tennessee,tn,tiptonville,KDYR
+2476,lauderdale,tennessee,tn,ripley,KDYR
+2477,lawrence,tennessee,tn,lawrenceburg,KMRC
+2478,lewis,tennessee,tn,hohenwald,KMRC
+2479,lincoln,tennessee,tn,fayetteville,KMDQ
+2480,loudon,tennessee,tn,loudon,KTYS
+2481,mcminn,tennessee,tn,athens,KMMI
+2482,mcnairy,tennessee,tn,selmer,KMKL
+2483,macon,tennessee,tn,lafayette,KGLW
+2484,madison,tennessee,tn,jackson,KMKL
+2485,marion,tennessee,tn,jasper,KCHA
+2486,marshall,tennessee,tn,lewisburg,KMRC
+2487,maury,tennessee,tn,columbia,KMRC
+2488,meigs,tennessee,tn,decatur,KMMI
+2489,monroe,tennessee,tn,madisonville,KMMI
+2490,montgomery,tennessee,tn,clarksville,KHOP
+2491,moore,tennessee,tn,lynchburg,KTHA
+2492,morgan,tennessee,tn,wartburg,KOQT
+2493,obion,tennessee,tn,union-city,KUCY
+2494,overton,tennessee,tn,livingston,KSRB
+2495,perry,tennessee,tn,linden,KMRC
+2496,pickett,tennessee,tn,byrdstown,KSRB
+2497,polk,tennessee,tn,benton,KRZR
+2498,putnam,tennessee,tn,cookeville,KSRB
+2499,rhea,tennessee,tn,dayton,KRZR
+2500,roane,tennessee,tn,kingston,KOQT
+2501,robertson,tennessee,tn,springfield,KBNA
+2502,rutherford,tennessee,tn,murfreesboro,KMQY
+2503,scott,tennessee,tn,huntsville,KOQT
+2504,sequatchie,tennessee,tn,dunlap,KCHA
+2505,sevier,tennessee,tn,sevierville,KTYS
+2506,shelby,tennessee,tn,memphis,KMEM
+2507,smith,tennessee,tn,carthage,KSRB
+2508,stewart,tennessee,tn,dover,KHOP
+2509,sullivan,tennessee,tn,blountville,KTRI
+2510,sumner,tennessee,tn,gallatin,KBNA
+2511,tipton,tennessee,tn,covington,KNQA
+2512,trousdale,tennessee,tn,hartsville,KMQY
+2513,unicoi,tennessee,tn,erwin,K0A9
+2514,union,tennessee,tn,maynardville,K1A6
+2515,van buren,tennessee,tn,spencer,KSRB
+2516,warren,tennessee,tn,mcminnville,KSRB
+2517,washington,tennessee,tn,jonesborough,KTRI
+2518,wayne,tennessee,tn,waynesboro,KMRC
+2519,weakley,tennessee,tn,dresden,KUCY
+2520,white,tennessee,tn,sparta,KSRB
+2521,williamson,tennessee,tn,franklin,KBNA
+2522,wilson,tennessee,tn,lebanon,KMQY
+2523,anderson,texas,tx,palestine,KPSN
+2524,andrews,texas,tx,andrews,KE11
+2525,angelina,texas,tx,lufkin,KLFK
+2526,aransas,texas,tx,rockport,KRKP
+2527,archer,texas,tx,archer-city,KCWC
+2528,armstrong,texas,tx,claude,KPPA
+2529,atascosa,texas,tx,jourdanton,KPEZ
+2530,austin,texas,tx,bellville,K11R
+2531,bailey,texas,tx,muleshoe,
+2532,bandera,texas,tx,bandera,KERV
+2533,bastrop,texas,tx,bastrop,KGYB
+2534,baylor,texas,tx,seymour,KF05
+2535,bee,texas,tx,beeville,KBEA
+2536,bell,texas,tx,belton,KTPL
+2537,bexar,texas,tx,san-antonio,KSAT
+2538,blanco,texas,tx,johnson-city,KDZB
+2539,borden,texas,tx,gail,KSNK
+2540,bosque,texas,tx,meridian,KCPT
+2541,bowie,texas,tx,boston,
+2542,brazoria,texas,tx,angleton,KLBX
+2543,brazos,texas,tx,bryan,KCLL
+2544,brewster,texas,tx,alpine,KE38
+2545,briscoe,texas,tx,silverton,KPVW
+2546,brooks,texas,tx,falfurrias,KBKS
+2547,brown,texas,tx,brownwood,KBWD
+2548,burleson,texas,tx,caldwell,KRWV
+2549,burnet,texas,tx,burnet,KBMQ
+2550,caldwell,texas,tx,lockhart,KAUS
+2551,calhoun,texas,tx,port-lavaca,KPKV
+2552,callahan,texas,tx,baird,
+2553,cameron,texas,tx,brownsville,KBRO
+2554,camp,texas,tx,pittsburg,KOSA
+2555,carson,texas,tx,panhandle,KBGD
+2556,cass,texas,tx,linden,KASL
+2557,castro,texas,tx,dimmitt,KHRX
+2558,chambers,texas,tx,anahuac,KEFD
+2559,cherokee,texas,tx,rusk,KJSO
+2560,childress,texas,tx,childress,KCDS
+2561,clay,texas,tx,henrietta,KCWC
+2562,cochran,texas,tx,morton,
+2563,coke,texas,tx,robert-lee,KSJT
+2564,coleman,texas,tx,coleman,KCOM
+2565,collin,texas,tx,mckinney,KTKI
+2566,collingsworth,texas,tx,wellington,KCDS
+2567,colorado,texas,tx,columbus,K3T5
+2568,comal,texas,tx,new-braunfels,KBAZ
+2569,comanche,texas,tx,comanche,KMKN
+2570,concho,texas,tx,paint-rock,KSJT
+2571,cooke,texas,tx,,
+2572,coryell,texas,tx,gatesville,KGOP
+2573,cottle,texas,tx,paducah,KCDS
+2574,crane,texas,tx,crane,KODO
+2575,crockett,texas,tx,ozona,KOZA
+2576,crosby,texas,tx,crosbyton,
+2577,culberson,texas,tx,van-horn,
+2578,dallam,texas,tx,dalhart,KDHT
+2579,dallas,texas,tx,dallas,KDAL
+2580,dawson,texas,tx,lamesa,
+2581,deaf smith,texas,tx,hereford,KAMA
+2582,delta,texas,tx,cooper,
+2583,denton,texas,tx,denton,KDTO
+2584,dewitt,texas,tx,cuero,
+2585,dickens,texas,tx,dickens,
+2586,dimmit,texas,tx,carrizo-springs,
+2587,donley,texas,tx,clarendon,
+2588,duval,texas,tx,san-diego,
+2589,eastland,texas,tx,eastland,
+2590,ector,texas,tx,odessa,KODO
+2591,edwards,texas,tx,rocksprings,
+2592,ellis,texas,tx,waxahachie,
+2593,el paso,texas,tx,el-paso,
+2594,erath,texas,tx,,
+2595,falls,texas,tx,marlin,
+2596,fannin,texas,tx,bonham,
+2597,fayette,texas,tx,la-grange,
+2598,fisher,texas,tx,roby,
+2599,floyd,texas,tx,floydada,KPVW
+2600,foard,texas,tx,crowell,
+2601,fort bend,texas,tx,richmond,KTME
+2602,franklin,texas,tx,mount-vernon,
+2603,freestone,texas,tx,fairfield,KCRS
+2604,frio,texas,tx,pearsall,
+2605,gaines,texas,tx,seminole,
+2606,galveston,texas,tx,,
+2607,garza,texas,tx,post,
+2608,gillespie,texas,tx,fredericksburg,
+2609,glasscock,texas,tx,garden-city,KODO
+2610,goliad,texas,tx,goliad,
+2611,gonzales,texas,tx,gonzales,
+2612,gray,texas,tx,pampa,KPPA
+2613,grayson,texas,tx,sherman,
+2614,gregg,texas,tx,longview,
+2615,grimes,texas,tx,anderson,
+2616,guadalupe,texas,tx,seguin,
+2617,hale,texas,tx,plainview,KLBB
+2618,hall,texas,tx,memphis,KPPA
+2619,hamilton,texas,tx,hamilton,
+2620,hansford,texas,tx,spearman,
+2621,hardeman,texas,tx,quanah,
+2622,hardin,texas,tx,kountze,
+2623,harris,texas,tx,houston,
+2624,harrison,texas,tx,marshall,KASL
+2625,hartley,texas,tx,channing,KDUX
+2626,haskell,texas,tx,haskell,
+2627,hays,texas,tx,san-marcos,KBAZ
+2628,hemphill,texas,tx,canadian,KPPA
+2629,henderson,texas,tx,athens,
+2630,hidalgo,texas,tx,edinburg,
+2631,hill,texas,tx,hillsboro,
+2632,hockley,texas,tx,levelland,
+2633,hood,texas,tx,granbury,KCPT
+2634,hopkins,texas,tx,sulphur-springs,
+2635,houston,texas,tx,crockett,
+2636,howard,texas,tx,big-spring,
+2637,hudspeth,texas,tx,sierra-blanca,
+2638,hunt,texas,tx,greenville,
+2639,hutchinson,texas,tx,stinnett,
+2640,irion,texas,tx,mertzon,
+2641,jack,texas,tx,jacksboro,
+2642,jackson,texas,tx,edna,
+2643,jasper,texas,tx,jasper,
+2644,jeff davis,texas,tx,fort-davis,
+2645,jefferson,texas,tx,beaumont,
+2646,jim hogg,texas,tx,hebbronville,KALI
+2647,jim wells,texas,tx,alice,
+2648,johnson,texas,tx,cleburne,
+2649,jones,texas,tx,anson,
+2650,karnes,texas,tx,karnes-city,
+2651,kaufman,texas,tx,kaufman,
+2652,kendall,texas,tx,boerne,
+2653,kenedy,texas,tx,sarita,
+2654,kent,texas,tx,jayton,
+2655,kerr,texas,tx,kerrville,
+2656,kimble,texas,tx,junction,
+2657,king,texas,tx,guthrie,
+2658,kinney,texas,tx,brackettville,
+2659,kleberg,texas,tx,kingsville,
+2660,knox,texas,tx,benjamin,
+2661,lamar,texas,tx,paris,
+2662,lamb,texas,tx,littlefield,
+2663,lampasas,texas,tx,lampasas,
+2664,la salle,texas,tx,cotulla,
+2665,lavaca,texas,tx,hallettsville,K3T5
+2666,lee,texas,tx,giddings,KGYB
+2667,leon,texas,tx,centerville,KDKR
+2668,liberty,texas,tx,liberty,K6R3
+2669,limestone,texas,tx,groesbeck,KLXY
+2670,lipscomb,texas,tx,lipscomb,KHHF
+2671,live oak,texas,tx,george-west,KBEA
+2672,llano,texas,tx,llano,KAQO
+2673,loving,texas,tx,mentone,KPEQ
+2674,lubbock,texas,tx,lubbock,
+2675,lynn,texas,tx,tahoka,
+2676,mcculloch,texas,tx,brady,KAQO
+2677,mclennan,texas,tx,waco,KACT
+2678,mcmullen,texas,tx,tilden,KPEZ
+2679,madison,texas,tx,madisonville,KUTS
+2680,marion,texas,tx,jefferson,KASL
+2681,martin,texas,tx,stanton,KMDD
+2682,mason,texas,tx,mason,KAQO
+2683,matagorda,texas,tx,bay-city,KBYY
+2684,maverick,texas,tx,eagle-pass,KFTN
+2685,medina,texas,tx,hondo,
+2686,menard,texas,tx,menard,
+2687,midland,texas,tx,midland,KMDD
+2688,milam,texas,tx,cameron,KT35
+2689,mills,texas,tx,goldthwaite,KMNZ
+2690,mitchell,texas,tx,colorado-city,KSNK
+2691,montague,texas,tx,montague,K0F2
+2692,montgomery,texas,tx,conroe,KCXO
+2693,moore,texas,tx,dumas,KDUX
+2694,morris,texas,tx,daingerfield,KOSA
+2695,motley,texas,tx,matador,KCDS
+2696,nacogdoches,texas,tx,nacogdoches,KOCH
+2697,navarro,texas,tx,corsicana,KCRS
+2698,newton,texas,tx,newton,KJAS
+2699,nolan,texas,tx,sweetwater,KSWW
+2700,nueces,texas,tx,corpus-christi,KCRP
+2701,ochiltree,texas,tx,perryton,KPYX
+2702,oldham,texas,tx,vega,KHRX
+2703,orange,texas,tx,orange,KORG
+2704,palo pinto,texas,tx,palo-pinto,
+2705,panola,texas,tx,carthage,KASL
+2706,parker,texas,tx,weatherford,
+2707,parmer,texas,tx,farwell,
+2708,pecos,texas,tx,fort-stockton,
+2709,polk,texas,tx,livingston,K6R3
+2710,potter,texas,tx,amarillo,KHRX
+2711,presidio,texas,tx,marfa,
+2712,rains,texas,tx,emory,KJDD
+2713,randall,texas,tx,canyon,KHRX
+2714,reagan,texas,tx,big-lake,KOZA
+2715,real,texas,tx,leakey,KUVA
+2716,red river,texas,tx,clarksville,KPRX
+2717,reeves,texas,tx,pecos,KPEQ
+2718,refugio,texas,tx,refugio,KRKP
+2719,roberts,texas,tx,miami,KHHF
+2720,robertson,texas,tx,franklin,KLHB
+2721,rockwall,texas,tx,rockwall,KF46
+2722,runnels,texas,tx,ballinger,KCOM
+2723,rusk,texas,tx,henderson,KRFI
+2724,sabine,texas,tx,hemphill,KAQV
+2725,san augustine,texas,tx,san-augustine,KOCH
+2726,san jacinto,texas,tx,coldspring,K6R3
+2727,san patricio,texas,tx,sinton,KCRP
+2728,san saba,texas,tx,san-saba,KAQO
+2729,schleicher,texas,tx,eldorado,KSOA
+2730,scurry,texas,tx,snyder,KSNK
+2731,shackelford,texas,tx,albany,KBKD
+2732,shelby,texas,tx,center,KOCH
+2733,sherman,texas,tx,stratford,KDUX
+2734,smith,texas,tx,tyler,KTYR
+2735,somervell,texas,tx,glen-rose,KGDJ
+2736,starr,texas,tx,rio-grande-city,KMFE
+2737,stephens,texas,tx,breckenridge,KBKD
+2738,sterling,texas,tx,sterling-city,KSJT
+2739,stonewall,texas,tx,aspermont,KSWW
+2740,sutton,texas,tx,sonora,KSOA
+2741,swisher,texas,tx,tulia,KPVW
+2742,tarrant,texas,tx,fort-worth,
+2743,taylor,texas,tx,abilene,
+2744,terrell,texas,tx,sanderson,
+2745,terry,texas,tx,brownfield,KGNC
+2746,throckmorton,texas,tx,throckmorton,KBKD
+2747,titus,texas,tx,mount-pleasant,KOSA
+2748,tom green,texas,tx,san-angelo,KSJT
+2749,travis,texas,tx,austin,KATT
+2750,trinity,texas,tx,groveton,KDKR
+2751,tyler,texas,tx,woodville,KJAS
+2752,upshur,texas,tx,gilmer,KJXI
+2753,upton,texas,tx,rankin,
+2754,uvalde,texas,tx,uvalde,KUVA
+2755,val verde,texas,tx,del-rio,
+2756,van zandt,texas,tx,canton,KJDD
+2757,victoria,texas,tx,victoria,KVCT
+2758,walker,texas,tx,huntsville,KUTS
+2759,waller,texas,tx,hempstead,K11R
+2760,ward,texas,tx,monahans,KINK
+2761,washington,texas,tx,brenham,K11R
+2762,webb,texas,tx,laredo,
+2763,wharton,texas,tx,wharton,KARM
+2764,wheeler,texas,tx,wheeler,KHHF
+2765,wichita,texas,tx,wichita-falls,KCWC
+2766,wilbarger,texas,tx,vernon,KF05
+2767,willacy,texas,tx,raymondville,KHRL
+2768,williamson,texas,tx,georgetown,KGTU
+2769,wilson,texas,tx,floresville,KSSF
+2770,winkler,texas,tx,kermit,KINK
+2771,wise,texas,tx,decatur,KLUD
+2772,wood,texas,tx,quitman,KJDD
+2773,yoakum,texas,tx,plains,KGNC
+2774,young,texas,tx,graham,KRPH
+2775,zapata,texas,tx,zapata,KAPY
+2776,zavala,texas,tx,crystal-city,KFTN
+2777,beaver,utah,ut,beaver,KMLF
+2778,box elder,utah,ut,brigham-city,KBMC
+2779,cache,utah,ut,logan,KLGU
+2780,carbon,utah,ut,price,KPUC
+2781,daggett,utah,ut,manila,KVEL
+2782,davis,utah,ut,farmington,
+2783,duchesne,utah,ut,duchesne,KPUC
+2784,emery,utah,ut,castle-dale,KPUC
+2785,garfield,utah,ut,panguitch,KBCE
+2786,grand,utah,ut,moab,KCNY
+2787,iron,utah,ut,parowan,KCDC
+2788,juab,utah,ut,nephi,KPVU
+2789,kane,utah,ut,kanab,KCDC
+2790,millard,utah,ut,fillmore,KMLF
+2791,morgan,utah,ut,morgan,
+2792,piute,utah,ut,junction,KBCE
+2793,rich,utah,ut,randolph,KEVW
+2794,salt lake,utah,ut,salt-lake-city,KSLC
+2795,san juan,utah,ut,monticello,KAIB
+2796,sanpete,utah,ut,manti,KPUC
+2797,sevier,utah,ut,richfield,KMLF
+2798,summit,utah,ut,coalville,K36U
+2799,tooele,utah,ut,tooele,KU42
+2800,uintah,utah,ut,vernal,KVEL
+2801,utah,utah,ut,provo,KPVU
+2802,wasatch,utah,ut,heber-city,K36U
+2803,washington,utah,ut,st.-george,KSGU
+2804,wayne,utah,ut,loa,KBCE
+2805,weber,utah,ut,ogden,KOGD
+2806,addison,vermont,vt,middlebury,K6B0
+2807,bennington,vermont,vt,bennington,KDDH
+2808,caledonia,vermont,vt,st.-johnsbury,KCDA
+2809,chittenden,vermont,vt,burlington,KBTV
+2810,essex,vermont,vt,guildhall,KHIE
+2811,franklin,vermont,vt,,
+2812,grand isle,vermont,vt,north-hero,KFSO
+2813,lamoille,vermont,vt,hyde-park,KMVL
+2814,orange,vermont,vt,chelsea,KMPV
+2815,orleans,vermont,vt,newport,KEFK
+2816,rutland,vermont,vt,,
+2817,washington,vermont,vt,montpelier,KMPV
+2818,windham,vermont,vt,newfane,KEEN
+2819,windsor,vermont,vt,woodstock,KLEB
+2820,accomack,virginia,va,accomac,KMFV
+2821,albemarle,virginia,va,charlottesville,KCHO
+2822,alleghany,virginia,va,covington,KLWB
+2823,amelia,virginia,va,amelia,MUCM
+2824,amherst,virginia,va,amherst,KLYH
+2825,appomattox,virginia,va,appomattox,KLYH
+2826,arlington,virginia,va,,
+2827,augusta,virginia,va,staunton,KSHD
+2828,bath,virginia,va,warm-springs,KHSP
+2829,bedford,virginia,va,bedford,KLYH
+2830,bland,virginia,va,bland,KBLF
+2831,botetourt,virginia,va,fincastle,KROA
+2832,brunswick,virginia,va,lawrenceville,KAVC
+2833,buchanan,virginia,va,grundy,KJFZ
+2834,buckingham,virginia,va,buckingham,KFVX
+2835,campbell,virginia,va,rustburg,KLYH
+2836,caroline,virginia,va,bowling-green,KEZF
+2837,carroll,virginia,va,hillsville,KHLX
+2838,charles city,virginia,va,charles-city,KRIC
+2839,charlotte,virginia,va,charlotte-court-house,KFVX
+2840,chesterfield,virginia,va,,
+2841,clarke,virginia,va,berryville,KOKV
+2842,craig,virginia,va,new-castle,KROA
+2843,culpeper,virginia,va,culpeper,KOMH
+2844,cumberland,virginia,va,cumberland,KFVX
+2845,dickenson,virginia,va,clintwood,KLNP
+2846,dinwiddie,virginia,va,dinwiddie,KPTB
+2847,essex,virginia,va,tappahannock,KXSA
+2848,fairfax,virginia,va,fairfax,KIAD
+2849,fauquier,virginia,va,warrenton,KHWY
+2850,floyd,virginia,va,floyd,KBCB
+2851,fluvanna,virginia,va,palmyra,KCHO
+2852,franklin,virginia,va,rocky-mount,KROA
+2853,frederick,virginia,va,winchester,KOKV
+2854,giles,virginia,va,pearisburg,KPSK
+2855,gloucester,virginia,va,gloucester-courthouse,KFYJ
+2856,goochland,virginia,va,goochland,KOFP
+2857,grayson,virginia,va,independence,KGEV
+2858,greene,virginia,va,stanardsville,KCHO
+2859,greensville,virginia,va,emporia,KEMV
+2860,halifax,virginia,va,halifax,KDAN
+2861,hanover,virginia,va,hanover-courthouse,MKJS
+2862,henrico,virginia,va,,
+2863,henry,virginia,va,martinsville,KMTV
+2864,highland,virginia,va,monterey,KHSP
+2865,isle of wight,virginia,va,isle-of-wight,KFAF
+2866,james city,virginia,va,williamsburg,KJGG
+2867,king and queen,virginia,va,king-and-queen-court-house,KFYJ
+2868,king george,virginia,va,king-george,KEZF
+2869,king william,virginia,va,king-william,KXSA
+2870,lancaster,virginia,va,lancaster,KFYJ
+2871,lee,virginia,va,jonesville,K0VG
+2872,loudoun,virginia,va,leesburg,KJYO
+2873,louisa,virginia,va,louisa,KOMH
+2874,lunenburg,virginia,va,lunenburg,KAVC
+2875,madison,virginia,va,madison,KOMH
+2876,mathews,virginia,va,mathews,KPHF
+2877,mecklenburg,virginia,va,boydton,KAVC
+2878,middlesex,virginia,va,saluda,KFYJ
+2879,montgomery,virginia,va,christiansburg,KBCB
+2880,nelson,virginia,va,lovingston,KSHD
+2881,new kent,virginia,va,new-kent,KFYJ
+2882,northampton,virginia,va,eastville,KMFV
+2883,northumberland,virginia,va,heathsville,KNUI
+2884,nottoway,virginia,va,nottoway,KFVX
+2885,orange,virginia,va,orange,KOMH
+2886,page,virginia,va,luray,KLUA
+2887,patrick,virginia,va,stuart,KMTV
+2888,pittsylvania,virginia,va,chatham,KDAN
+2889,powhatan,virginia,va,powhatan,KFCI
+2890,prince edward,virginia,va,farmville,KFVX
+2891,prince george,virginia,va,,
+2892,prince william,virginia,va,manassas,KHEF
+2893,pulaski,virginia,va,pulaski,KPSK
+2894,rappahannock,virginia,va,washington,KLUA
+2895,richmond,virginia,va,warsaw,KXSA
+2896,roanoke,virginia,va,salem,KROA
+2897,rockbridge,virginia,va,lexington,KLYH
+2898,rockingham,virginia,va,harrisonburg,KSHD
+2899,russell,virginia,va,lebanon,KVJI
+2900,scott,virginia,va,gate-city,KTRI
+2901,shenandoah,virginia,va,woodstock,KLUA
+2902,smyth,virginia,va,marion,KMKJ
+2903,southampton,virginia,va,courtland,KFKN
+2904,spotsylvania,virginia,va,spotsylvania-courthouse,KEZF
+2905,stafford,virginia,va,stafford,KRMN
+2906,surry,virginia,va,surry,KJGG
+2907,sussex,virginia,va,sussex,KAKQ
+2908,tazewell,virginia,va,tazewell,KJFZ
+2909,warren,virginia,va,front-royal,KOKV
+2910,washington,virginia,va,abingdon,KVJI
+2911,westmoreland,virginia,va,montross,KXSA
+2912,wise,virginia,va,wise,KLNP
+2913,wythe,virginia,va,wytheville,KMKJ
+2914,york,virginia,va,yorktown,KPHF
+2915,city of alexandria,virginia,va,,
+2916,city of bristol,virginia,va,,
+2917,city of buena vista,virginia,va,,
+2918,city of charlottesville,virginia,va,,
+2919,city of chesapeake,virginia,va,,
+2920,city of colonial heights,virginia,va,,
+2921,city of covington,virginia,va,,
+2922,city of danville,virginia,va,,
+2923,city of emporia,virginia,va,,
+2924,city of fairfax,virginia,va,,
+2925,city of falls church,virginia,va,,
+2926,city of franklin,virginia,va,,
+2927,city of fredericksburg,virginia,va,,
+2928,city of galax,virginia,va,,
+2929,city of hampton,virginia,va,,
+2930,city of harrisonburg,virginia,va,,
+2931,city of hopewell,virginia,va,,
+2932,city of lexington,virginia,va,,
+2933,city of lynchburg,virginia,va,,
+2934,city of manassas,virginia,va,,
+2935,city of manassas park,virginia,va,,
+2936,city of martinsville,virginia,va,,
+2937,city of newport news,virginia,va,,
+2938,city of norfolk,virginia,va,,
+2939,city of norton,virginia,va,,
+2940,city of petersburg,virginia,va,,
+2941,city of poquoson,virginia,va,,
+2942,city of portsmouth,virginia,va,,
+2943,city of radford,virginia,va,,
+2944,city of richmond,virginia,va,,
+2945,city of roanoke,virginia,va,,
+2946,city of salem,virginia,va,,
+2947,city of staunton,virginia,va,,
+2948,city of suffolk,virginia,va,,
+2949,city of virginia beach,virginia,va,,
+2950,city of waynesboro,virginia,va,,
+2951,city of williamsburg,virginia,va,,
+2952,city of winchester,virginia,va,,
+2953,adams,washington,wa,ritzville,KMWH
+2954,asotin,washington,wa,asotin,KLWS
+2955,benton,washington,wa,prosser,KPSC
+2956,chelan,washington,wa,,
+2957,clallam,washington,wa,port-angeles,KCLM
+2958,clark,washington,wa,vancouver,KVUO
+2959,columbia,washington,wa,dayton,
+2960,cowlitz,washington,wa,kelso,KKLS
+2961,douglas,washington,wa,waterville,KEAT
+2962,ferry,washington,wa,republic,KOMK
+2963,franklin,washington,wa,pasco,KPSC
+2964,garfield,washington,wa,pomeroy,KLWS
+2965,grant,washington,wa,ephrata,KEPH
+2966,grays harbor,washington,wa,montesano,KHQM
+2967,island,washington,wa,coupeville,KNUW
+2968,jefferson,washington,wa,port-townsend,KNUW
+2969,king,washington,wa,seattle,KBFI
+2970,kitsap,washington,wa,port-orchard,KPWT
+2971,kittitas,washington,wa,ellensburg,KELN
+2972,klickitat,washington,wa,goldendale,KDLS
+2973,lewis,washington,wa,chehalis,KCLS
+2974,lincoln,washington,wa,davenport,KSKA
+2975,mason,washington,wa,shelton,KSHN
+2976,okanogan,washington,wa,okanogan,
+2977,pacific,washington,wa,south-bend,KHQM
+2978,pend oreille,washington,wa,newport,KDEW
+2979,pierce,washington,wa,tacoma,KTIW
+2980,san juan,washington,wa,friday-harbor,KFHR
+2981,skagit,washington,wa,mount-vernon,KNUW
+2982,skamania,washington,wa,stevenson,KTTD
+2983,snohomish,washington,wa,everett,KPAE
+2984,spokane,washington,wa,spokane,KSFF
+2985,stevens,washington,wa,colville,KDEW
+2986,thurston,washington,wa,olympia,KOLM
+2987,wahkiakum,washington,wa,cathlamet,KKLS
+2988,walla walla,washington,wa,walla-walla,
+2989,whatcom,washington,wa,bellingham,KBLI
+2990,whitman,washington,wa,colfax,KPUW
+2991,yakima,washington,wa,yakima,K1YT
+2992,barbour,west virginia,wv,philippi,KCKB
+2993,berkeley,west virginia,wv,martinsburg,KMRB
+2994,boone,west virginia,wv,madison,KCRW
+2995,braxton,west virginia,wv,sutton,KW22
+2996,brooke,west virginia,wv,wellsburg,KHLG
+2997,cabell,west virginia,wv,huntington,KHTS
+2998,calhoun,west virginia,wv,grantsville,KPKB
+2999,clay,west virginia,wv,clay,KCRW
+3000,doddridge,west virginia,wv,west-union,KCKB
+3001,fayette,west virginia,wv,fayetteville,KBKW
+3002,gilmer,west virginia,wv,glenville,KW22
+3003,grant,west virginia,wv,petersburg,KW99
+3004,greenbrier,west virginia,wv,,
+3005,hampshire,west virginia,wv,romney,KCBE
+3006,hancock,west virginia,wv,new-cumberland,KPIT
+3007,hardy,west virginia,wv,moorefield,KW99
+3008,harrison,west virginia,wv,clarksburg,KCKB
+3009,jackson,west virginia,wv,ripley,K3I2
+3010,jefferson,west virginia,wv,charles-town,KMRB
+3011,kanawha,west virginia,wv,charleston,KCRW
+3012,lewis,west virginia,wv,weston,KW22
+3013,lincoln,west virginia,wv,hamlin,KHTS
+3014,logan,west virginia,wv,logan,KI16
+3015,mcdowell,west virginia,wv,,
+3016,marion,west virginia,wv,fairmont,KCKB
+3017,marshall,west virginia,wv,moundsville,KHLG
+3018,mason,west virginia,wv,point-pleasant,K3I2
+3019,mercer,west virginia,wv,princeton,KBLF
+3020,mineral,west virginia,wv,,
+3021,mingo,west virginia,wv,williamson,KSJS
+3022,monongalia,west virginia,wv,morgantown,KMGW
+3023,monroe,west virginia,wv,union,KLWB
+3024,morgan,west virginia,wv,berkeley-springs,KMRB
+3025,nicholas,west virginia,wv,summersville,KBKW
+3026,ohio,west virginia,wv,wheeling,KHLG
+3027,pendleton,west virginia,wv,franklin,KW99
+3028,pleasants,west virginia,wv,st.-marys,KPKB
+3029,pocahontas,west virginia,wv,marlinton,KHSP
+3030,preston,west virginia,wv,kingwood,KMGW
+3031,putnam,west virginia,wv,winfield,KCRW
+3032,raleigh,west virginia,wv,beckley,KBKW
+3033,randolph,west virginia,wv,elkins,KEKN
+3034,ritchie,west virginia,wv,harrisville,KPKB
+3035,roane,west virginia,wv,spencer,KCRW
+3036,summers,west virginia,wv,hinton,KBKW
+3037,taylor,west virginia,wv,grafton,KCKB
+3038,tucker,west virginia,wv,parsons,KEKN
+3039,tyler,west virginia,wv,middlebourne,KPKB
+3040,upshur,west virginia,wv,buckhannon,KW22
+3041,wayne,west virginia,wv,wayne,KHTS
+3042,webster,west virginia,wv,webster-springs,KW22
+3043,wetzel,west virginia,wv,new-martinsville,KPKB
+3044,wirt,west virginia,wv,elizabeth,KPKB
+3045,wood,west virginia,wv,parkersburg,KPKB
+3046,wyoming,west virginia,wv,pineville,KI16
+3047,adams,wisconsin,wi,friendship,KVOK
+3048,ashland,wisconsin,wi,ashland,KASX
+3049,barron,wisconsin,wi,barron,KRPD
+3050,bayfield,wisconsin,wi,washburn,KASX
+3051,brown,wisconsin,wi,green-bay,KGRB
+3052,buffalo,wisconsin,wi,alma,KONA
+3053,burnett,wisconsin,wi,town-of-meenon,AYPY
+3054,calumet,wisconsin,wi,chilton,KOSH
+3055,chippewa,wisconsin,wi,chippewa-falls,KEAU
+3056,clark,wisconsin,wi,neillsville,KMFI
+3057,columbia,wisconsin,wi,portage,KDLL
+3058,crawford,wisconsin,wi,prairie-du-chien,KPDC
+3059,dane,wisconsin,wi,madison,KMSN
+3060,dodge,wisconsin,wi,juneau,KUNU
+3061,door,wisconsin,wi,,
+3062,douglas,wisconsin,wi,superior,KSUW
+3063,dunn,wisconsin,wi,menomonie,KLUM
+3064,eau claire,wisconsin,wi,eau-claire,KEAU
+3065,florence,wisconsin,wi,florence,
+3066,fond du lac,wisconsin,wi,fond-du-lac,
+3067,forest,wisconsin,wi,crandon,KAIG
+3068,grant,wisconsin,wi,lancaster,
+3069,green,wisconsin,wi,monroe,
+3070,green lake,wisconsin,wi,green-lake,KY50
+3071,iowa,wisconsin,wi,dodgeville,
+3072,iron,wisconsin,wi,hurley,
+3073,jackson,wisconsin,wi,black-river-falls,KBCK
+3074,jefferson,wisconsin,wi,jefferson,
+3075,juneau,wisconsin,wi,mauston,KVOK
+3076,kenosha,wisconsin,wi,kenosha,
+3077,kewaunee,wisconsin,wi,kewaunee,
+3078,la crosse,wisconsin,wi,la-crosse,KY51
+3079,lafayette,wisconsin,wi,darlington,
+3080,langlade,wisconsin,wi,antigo,
+3081,lincoln,wisconsin,wi,merrill,KTKV
+3082,manitowoc,wisconsin,wi,city-of-manitowoc,
+3083,marathon,wisconsin,wi,wausau,
+3084,marinette,wisconsin,wi,marinette,
+3085,marquette,wisconsin,wi,montello,KY50
+3086,menominee,wisconsin,wi,keshena,
+3087,milwaukee,wisconsin,wi,milwaukee,
+3088,monroe,wisconsin,wi,sparta,KY51
+3089,oconto,wisconsin,wi,oconto,
+3090,oneida,wisconsin,wi,rhinelander,KRHI
+3091,outagamie,wisconsin,wi,appleton,
+3092,ozaukee,wisconsin,wi,port-washington,
+3093,pepin,wisconsin,wi,durand,KEAU
+3094,pierce,wisconsin,wi,ellsworth,
+3095,polk,wisconsin,wi,balsam-lake,
+3096,portage,wisconsin,wi,stevens-point,
+3097,price,wisconsin,wi,phillips,
+3098,racine,wisconsin,wi,racine,
+3099,richland,wisconsin,wi,richland-center,
+3100,rock,wisconsin,wi,janesville,
+3101,rusk,wisconsin,wi,ladysmith,KRCX
+3102,st. croix,wisconsin,wi,hudson,K21D
+3103,sauk,wisconsin,wi,baraboo,KDLL
+3104,sawyer,wisconsin,wi,hayward,
+3105,shawano,wisconsin,wi,shawano,KEZS
+3106,sheboygan,wisconsin,wi,city-of-sheboygan,
+3107,taylor,wisconsin,wi,medford,KMDZ
+3108,trempealeau,wisconsin,wi,whitehall,KBCK
+3109,vernon,wisconsin,wi,viroqua,KY51
+3110,vilas,wisconsin,wi,eagle-river,KEGV
+3111,walworth,wisconsin,wi,elkhorn,
+3112,washburn,wisconsin,wi,shell-lake,KUBE
+3113,washington,wisconsin,wi,west-bend,KMWC
+3114,waukesha,wisconsin,wi,"waukesha,-wisconsin",
+3115,waupaca,wisconsin,wi,waupaca,KPCZ
+3116,waushara,wisconsin,wi,wautoma,KY50
+3117,winnebago,wisconsin,wi,oshkosh,KOSH
+3118,wood,wisconsin,wi,wisconsin-rapids,KISW
+3119,albany,wyoming,wy,laramie,KLAR
+3120,big horn,wyoming,wy,basin,KGEY
+3121,campbell,wyoming,wy,gillette,KGCC
+3122,carbon,wyoming,wy,rawlins,KRWL
+3123,converse,wyoming,wy,douglas,KDGW
+3124,crook,wyoming,wy,sundance,KW43
+3125,fremont,wyoming,wy,lander,KLND
+3126,goshen,wyoming,wy,torrington,KTOR
+3127,hot springs,wyoming,wy,thermopolis,KWRL
+3128,johnson,wyoming,wy,buffalo,KBYG
+3129,laramie,wyoming,wy,cheyenne,KCYS
+3130,lincoln,wyoming,wy,kemmerer,KFBR
+3131,natrona,wyoming,wy,casper,KCPR
+3132,niobrara,wyoming,wy,lusk,KDGW
+3133,park,wyoming,wy,cody,KCOD
+3134,platte,wyoming,wy,wheatland,KTOR
+3135,sheridan,wyoming,wy,sheridan,KSHR
+3136,sublette,wyoming,wy,pinedale,KPNA
+3137,sweetwater,wyoming,wy,green-river,KRKS
+3138,teton,wyoming,wy,jackson,KJAC
+3139,uinta,wyoming,wy,evanston,KEVW
+3140,washakie,wyoming,wy,worland,KWRL
