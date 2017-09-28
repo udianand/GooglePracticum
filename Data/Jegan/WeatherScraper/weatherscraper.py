@@ -4,7 +4,7 @@ import pandas as pd
 import requests
 import urllib
 
-START_YEAR = 1985
+START_YEAR = 2001
 
 COUNTIES = ['mclean', 'livingston', 'champaign', 'la-salle']
 COUNTY_STATE_DICT = {'mclean':'il', 'livingston':'il', 'champaign':'il', 'la-salle':'il'}
@@ -144,51 +144,54 @@ def get_weather_data(county, airport, year):
                     daily_row_data.append(str(col.contents[0]))  
         if daily_row_data == []:
             row_data = [county, year, MONTHS[month_index]]
-            high_temp = max([x[0] for x in monthly_data])
-            row_data.append(high_temp)
-            avg_temp = sum([x[1] for x in monthly_data])/float(len(monthly_data))
-            row_data.append(avg_temp)
-            low_temp = min([x[2] for x in monthly_data])
-            row_data.append(low_temp)
-            high_dp = max([x[3] for x in monthly_data])
-            row_data.append(high_dp)
-            avg_dp = sum([x[4] for x in monthly_data])/float(len(monthly_data))
-            row_data.append(avg_dp)
-            low_dp = min([x[5] for x in monthly_data])
-            row_data.append(low_dp)
-            high_humidity = max([x[6] for x in monthly_data])
-            row_data.append(high_humidity)
-            avg_humidity = sum([x[7] for x in monthly_data])/float(len(monthly_data))
-            row_data.append(avg_humidity)
-            low_humidity = min([x[8] for x in monthly_data])
-            row_data.append(low_humidity)
-            high_sea_lvl = max([x[9] for x in monthly_data])
-            row_data.append(high_sea_lvl)
-            avg_sea_lvl = sum([x[10] for x in monthly_data])/float(len(monthly_data))
-            row_data.append(avg_sea_lvl)
-            low_sea_lvl = min([x[11] for x in monthly_data])
-            row_data.append(low_sea_lvl)
-            high_visibility = max([x[12] for x in monthly_data])
-            row_data.append(high_visibility)
-            avg_visibility = sum([x[13] for x in monthly_data])/float(len(monthly_data))
-            row_data.append(avg_visibility)
-            low_visibility = min([x[14] for x in monthly_data])
-            row_data.append(low_visibility)
-            high_wind = max([x[15] for x in monthly_data])
-            row_data.append(high_wind)
-            avg_wind = sum([x[16] for x in monthly_data])/float(len(monthly_data))
-            row_data.append(avg_wind)
-            total_precip = sum([x[17] for x in monthly_data])
-            row_data.append(total_precip)
-            days_rained = len([x for x in monthly_data if 'rain' in x[18].lower()])
-            row_data.append(days_rained)
-            days_snowed = len([x for x in monthly_data if 'snow' in x[18].lower()])
-            row_data.append(days_snowed)
-            days_fog = len([x for x in monthly_data if 'fog' in x[18].lower()])
-            row_data.append(days_fog)
-            days_thundersorm = len([x for x in monthly_data if 'thunderstorm' in x[18].lower()])
-            row_data.append(days_thundersorm)
-            monthly_data = []
+            try:
+                high_temp = max([x[0] for x in monthly_data])
+                row_data.append(high_temp)
+                avg_temp = sum([x[1] for x in monthly_data])/float(len(monthly_data))
+                row_data.append(avg_temp)
+                low_temp = min([x[2] for x in monthly_data])
+                row_data.append(low_temp)
+                high_dp = max([x[3] for x in monthly_data])
+                row_data.append(high_dp)
+                avg_dp = sum([x[4] for x in monthly_data])/float(len(monthly_data))
+                row_data.append(avg_dp)
+                low_dp = min([x[5] for x in monthly_data])
+                row_data.append(low_dp)
+                high_humidity = max([x[6] for x in monthly_data])
+                row_data.append(high_humidity)
+                avg_humidity = sum([x[7] for x in monthly_data])/float(len(monthly_data))
+                row_data.append(avg_humidity)
+                low_humidity = min([x[8] for x in monthly_data])
+                row_data.append(low_humidity)
+                high_sea_lvl = max([x[9] for x in monthly_data])
+                row_data.append(high_sea_lvl)
+                avg_sea_lvl = sum([x[10] for x in monthly_data])/float(len(monthly_data))
+                row_data.append(avg_sea_lvl)
+                low_sea_lvl = min([x[11] for x in monthly_data])
+                row_data.append(low_sea_lvl)
+                high_visibility = max([x[12] for x in monthly_data])
+                row_data.append(high_visibility)
+                avg_visibility = sum([x[13] for x in monthly_data])/float(len(monthly_data))
+                row_data.append(avg_visibility)
+                low_visibility = min([x[14] for x in monthly_data])
+                row_data.append(low_visibility)
+                high_wind = max([x[15] for x in monthly_data])
+                row_data.append(high_wind)
+                avg_wind = sum([x[16] for x in monthly_data])/float(len(monthly_data))
+                row_data.append(avg_wind)
+                total_precip = sum([x[17] for x in monthly_data])
+                row_data.append(total_precip)
+                days_rained = len([x for x in monthly_data if 'rain' in x[18].lower()])
+                row_data.append(days_rained)
+                days_snowed = len([x for x in monthly_data if 'snow' in x[18].lower()])
+                row_data.append(days_snowed)
+                days_fog = len([x for x in monthly_data if 'fog' in x[18].lower()])
+                row_data.append(days_fog)
+                days_thundersorm = len([x for x in monthly_data if 'thunderstorm' in x[18].lower()])
+                row_data.append(days_thundersorm)
+                monthly_data = []
+            except ValueError:
+                print 'NO DATA FOR MONTH:%s YEAR:%s' % (MONTHS[month_index], year)
             month_index += 1
             weather_data.append(row_data)
         else:
@@ -227,8 +230,6 @@ for county in get_county_list():
         airport = county_data.at[0,'AIRPORT CODE']
         try:
             w_data.extend(get_weather_data(county[0],airport,y))
-        except ValueError:
-            print 'Year %s predates this airport' % y
         except AttributeError:
             print 'Year %s predates this airport' % y
     if end_date_year == today.year:
