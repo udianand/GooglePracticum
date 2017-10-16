@@ -1,10 +1,16 @@
 from bs4 import BeautifulSoup
 from datetime import datetime
+#from geopy.geocoders import Nominatim
+from geopy.geocoders import GoogleV3
+from geopy.distance import vincenty
+from geopy.exc import GeopyError
+
 import pandas as pd
 import requests
-import urllib
 
-START_YEAR = 2001
+API_KEY = 'AIzaSyBtwGof1wYOvwKK226kPQV1VyMMz6uTN14'
+
+START_YEAR = 1986
 
 COUNTIES = ['mclean', 'livingston', 'champaign', 'la-salle']
 COUNTY_STATE_DICT = {'mclean':'il', 'livingston':'il', 'champaign':'il', 'la-salle':'il'}
@@ -29,52 +35,69 @@ STATE_ABBREV_DICT = { 'alabama':'al', 'alaska':'ak', 'arizona':'az', 'arkansas':
                      'virginia':'va', 'washington':'wa', 'west virginia':'wv', 'wisconsin':'wi', 'wyoming':'wy'}
 
 URL_COUNTY_INFO = 'https://en.wikipedia.org/wiki/List_of_counties_by_U.S._state'
-URL_AIPORT_ID_TEMPLATE = 'https://www.wunderground.com/weather/us/%s/%s/' 
 URL_WEATHER_HISTORY_TEMPLATE = "https://www.wunderground.com/history/airport/%s/%s/1/1/CustomHistory.html?dayend=31&monthend=12&yearend=%s&req_city=&req_state=&req_statename=&reqdb.zip=&reqdb.magic=&reqdb.wmo="
 
+def get_airport_data():
+    print 'GENERATING AIRPORT DATA'
+    url = 'https://en.wikipedia.org/wiki/List_of_airports_in_the_United_States'
+    result = requests.get(url)
+    soup = BeautifulSoup(result.content, 'html.parser')
+    table = soup.find_all('table')[2].find_all('td')
+    table_end = False
+    airport_list = []
+    for i, row in enumerate(table):
+        if 'wiki' in str(row).lower() and 'airport' not in str(row).lower() and not table_end:
+            if 'samoa' in str(row).lower():
+                table_end = True
+                break
+            airport_code = str(table[i+3].text)
+            if len(airport_code) == 4:
+                geolocator = GoogleV3(api_key=API_KEY)
+                geoloc = geolocator.geocode(airport_code, timeout=10)
+                if geoloc:
+                    row = [airport_code, geoloc.latitude, geoloc.longitude]
+                    print row
+                    airport_list.append(row)
+    return airport_list
+
+def get_closest_airport_id(airport_data, loc):
+    index = 0
+    min_dist = 100000000000000
+    for i, row in enumerate(airport_data):
+        if vincenty(loc, (row[1],row[2])).miles < min_dist:
+            min_dist = vincenty(loc, (row[1],row[2])).miles
+            index = i
+    return airport_data[index][0]
+
 def get_county_data():
+    airport_data = get_airport_data()
+    print 'GENERATING COUNTY DATA'
     result = requests.get(URL_COUNTY_INFO)
     soup = BeautifulSoup(result.content, 'html.parser')
     county_list = []
-    county_links_list = []
     for row in soup.find_all('a'):
         if ',' in str(row).lower():
             try:
                 county_list.append(str(row.contents[0]))
-                county_links_list.append(row['href'])
             except UnicodeEncodeError: # Take care of one stupid county
                 if 'new mexico' in str(row).lower():
                     county_list.append('Dona Ana County, New Mexico')
-                    county_links_list.append(row['href'])
     
+    # get rid of garbage data in the beginning of list
     if 'wikipedia' in county_list[0]:
         county_list = county_list[1:]
-        county_links_list = county_links_list[1:]
     last_index = 0
-    #print type(county_list[0])
+
+    # get rid of garbage data at the end of the list
     for i in range(len(county_list)):
         if 'wikipedia' in str(county_list[i]):
             last_index = i - 1
             break
 
-    county_list = county_list[:last_index]
-    county_links_list = county_links_list[:last_index]
-    cities = [None]*len(county_list)
+    county_list = county_list[:last_index]     
+    geolocator = GoogleV3(api_key=API_KEY, timeout=10)
     
-    for i in range(len(county_links_list)):
-        link = county_links_list[i]
-        result = requests.get('https://en.wikipedia.org%s' % link)
-        soup = BeautifulSoup(result.content, 'html.parser')
-        table = soup.find('table').find_all('tr')
-        for line in table:
-            if 'county_seat' in str(line).lower():
-                try:
-                    cities[i] = (str(line.find('td').find('a').contents[0]).lower())
-                except:
-                    pass
-        print county_list[i] + ' - ' + str(cities[i])
-                    
-    
+    # create county to airport code mapping table
     c_data = []
     
     for i in range(len(county_list)):
@@ -82,14 +105,24 @@ def get_county_data():
             county = county_list[i].split(',')[0].strip().lower().replace(' county', '')
             state = county_list[i].split(',')[1].strip().lower()
             abbrev = STATE_ABBREV_DICT[state]
-            if cities[i]:
-                city = cities[i].replace(' ', '-') # makes it wunderground friendly
-                airport_code = get_closest_airport_id(city, abbrev)
-            else:
-                city = None
-                airport_code = None
-            c_data.append([county, state, abbrev, city, airport_code])
             
+            # Give three tries, skip if fails every time
+            geoloc = None
+            try:
+                geoloc = geolocator.geocode(county_list[i])
+            except GeopyError:
+                try:
+                    geoloc = geolocator.geocode(county_list[i])
+                except GeopyError:
+                    try: 
+                        geoloc = geolocator.geocode(county_list[i])
+                    except GeopyError:
+                        print 'Skipping %s' % (county_list[i])
+                    
+            if geoloc:
+                location = (geoloc.latitude, geoloc.longitude)
+                airport_code = get_closest_airport_id(airport_data,location)
+                c_data.append([county, abbrev, airport_code])
             print county_list[i]
         except IndexError:
             print county_list[i] + ' index error'
@@ -98,8 +131,7 @@ def get_county_data():
         except KeyError:
             print county_list[i] + ' value error'
         
-    df = pd.DataFrame(c_data,columns=['COUNTY', 'STATE', 'ABBREVIATION', 'CITY', 'AIRPORT CODE'])
-
+    df = pd.DataFrame(c_data,columns=['COUNTY', 'ABBREVIATION', 'AIRPORT CODE'])
     df.to_csv('geo_data.csv')
     
 def get_county_list():
@@ -110,15 +142,6 @@ def get_county_list():
         state = line.split(',')[1].strip().lower()
         county_list.append((county, state))
     return county_list
-
-def get_closest_airport_id(city, state):
-    url = URL_AIPORT_ID_TEMPLATE % (state, city)
-    result = urllib.urlopen(url)
-    for line in result:
-        if 'airport' in line and 'href' in line:
-            line_contents = line.split('/')
-            airport_index = line_contents.index('airport')
-            return line_contents[airport_index+1]
 
 def retreive_geo_data_from_file():
     df = pd.read_csv('geo_data.csv')
@@ -142,7 +165,9 @@ def get_weather_data(county, airport, year):
                     daily_row_data.append(float(col.contents[0]))  
                 except ValueError:
                     daily_row_data.append(str(col.contents[0]))  
-        if daily_row_data == []:
+        # single case to avoid one missing day in KBUR
+        # extract these case to a method in the future
+        if daily_row_data == [] and not (airport == 'KBUR' and month_index == 1 and year == 2008 and len(monthly_data) < 25):
             row_data = [county, year, MONTHS[month_index]]
             try:
                 high_temp = max([x[0] for x in monthly_data])
@@ -208,17 +233,17 @@ def print_to_csv(data):
     w_df = pd.DataFrame(data,columns=COLUMNS)
     w_df.to_csv('weather_data.csv')
 
-# import os.path
-# if not os.path.isfile('geo_data.csv'):
-#     get_county_data()
- 
+import os.path
+if not os.path.isfile('geo_data.csv'):
+    get_county_data() 
+    
 today = datetime.today()
 end_date_year = 2016
 year_list = list(range(START_YEAR, end_date_year+1))
- 
+  
 geo_data = retreive_geo_data_from_file()
 geo_data.drop(geo_data.columns[[0]], axis=1, inplace=True)
- 
+  
 w_data = []
 for county in get_county_list():
     county_data = geo_data[(geo_data['COUNTY'] == county[0].replace(' ', '')) & (geo_data['ABBREVIATION'] == county[1])]
@@ -234,9 +259,5 @@ for county in get_county_list():
             print 'Year %s predates this airport' % y
     if end_date_year == today.year:
         w_data = w_data[:-1] # remove current month because data isnt complete
-   
-print_to_csv(w_data)
-
-
-
     
+print_to_csv(w_data)
