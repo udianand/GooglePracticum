@@ -21,7 +21,7 @@ COLUMNS = ['COUNTY', 'YEAR', 'MONTH', 'TMP_HIGH', 'TMP_AVG', 'TMP_LOW',
            'VIS_LOW', 'WIND_HIGH', 'WIND_AVG', 'PRECIP', 'NUMDAY_RAIN',
            'NUM_DAYS_SNOW', 'NUM_DAYS_FOG', 'NUM_DAYS_THNDRSTRM']
 
-MONTHS = ['JAN', 'FEB', 'MAR', 'ARP', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC']
+MONTHS = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC']
 STATE_ABBREV_DICT = { 'alabama':'al', 'alaska':'ak', 'arizona':'az', 'arkansas':'ar', 'california':'ca', 
                      'colorado':'co', 'connecticut':'CT', 'delaware':'de', 'district of columbia':'dc', 
                      'florida':'fl', 'georgia':'ga', 'hawaii':'hi', 'idaho':'id', 'illinois':'il', 
@@ -218,6 +218,10 @@ def get_weather_data(county, airport, year):
             except ValueError:
                 print 'NO DATA FOR MONTH:%s YEAR:%s' % (MONTHS[month_index], year)
             month_index += 1
+            ###### REMOVE AFTER WUNDERGROUND RESOLVES ISSUE ######
+            if year == 2000 and month_index == 2:
+                month_index = 4
+            ######################################################
             weather_data.append(row_data)
         else:
             if len(daily_row_data) >= 18:
