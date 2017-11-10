@@ -53,21 +53,21 @@ def prepare_data(data, time_steps, labels=False, val_size=0.1, test_size=0.1):
             rnn_data(df_val, time_steps, labels=labels),
             rnn_data(df_test, time_steps, labels=labels))
 
-def load_csvdata(rawdata, unraw, time_steps, seperate=False):
+def load_csvdata(rawdata, time_steps, seperate=False):
     data = rawdata
-    dataa = unraw
+    #dataa = unraw
 
     if not isinstance(data, pd.DataFrame):
         data = pd.DataFrame(data)
         
-    if not isinstance(dataa, pd.DataFrame):
-        dataa = pd.DataFrame(dataa)
+    #if not isinstance(dataa, pd.DataFrame):
+    #    dataa = pd.DataFrame(dataa)
 
-    #train_x, val_x, test_x = prepare_data(data['a'] if seperate else data, time_steps)
-    #train_y, val_y, test_y = prepare_data(data['b'] if seperate else dataa, time_steps, labels=True)
+    train_x, val_x, test_x = prepare_data(data['a'] if seperate else data, time_steps)
+    train_y, val_y, test_y = prepare_data(data['b'] if seperate else data, time_steps, labels=True)
     
-    train_x, val_x, test_x = prepare_data(data, time_steps)
-    train_y, val_y, test_y = prepare_data(dataa, time_steps, labels=True)
+    #train_x, val_x, test_x = prepare_data(data, time_steps)
+    #train_y, val_y, test_y = prepare_data(dataa, time_steps, labels=True)
     return dict(train=train_x, val=val_x, test=test_x), dict(train=train_y, val=val_y, test=test_y)
 
 def generate_data(fct, x, time_steps, seperate=False):
@@ -80,7 +80,7 @@ def generate_data(fct, x, time_steps, seperate=False):
     return dict(train=train_x, val=val_x, test=test_x), dict(train=train_y, val=val_y, test=test_y)
 
 
-def lstm_model(time_steps, rnn_layers, dense_layers=None, learning_rate=0.01, optimizer='Adagrad'):
+def lstm_model(time_steps, rnn_layers, dense_layers=None, learning_rate=0.01, optimizer='Adam'):
     print (time_steps)
     #exit(0)
     """
